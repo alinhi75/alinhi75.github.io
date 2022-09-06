@@ -5,10 +5,9 @@
 body {
   margin: 0;
   padding: 0;
+  color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
-  background: $body-color;
-  color: $font-color;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
@@ -31,32 +30,26 @@ h6 {
 h1 {
   margin-top: 0;
   font-size: $type-size-3;
-  color: $h1-color;
 }
 
 h2 {
   font-size: $type-size-4;
-  color: $h2-color;
 }
 
 h3 {
   font-size: $type-size-5;
-  color: $h3-color;
 }
 
 h4 {
   font-size: $type-size-6;
-  color: $h4-color;
 }
 
 h5 {
   font-size: $type-size-6;
-  color: $h5-color;
 }
 
 h6 {
   font-size: $type-size-6;
-  color: $h6-color;
 }
 
 small,
@@ -66,11 +59,6 @@ small,
 
 p {
   margin-bottom: 1.3em;
-  color: $p-color;
-}
-
-a {
-  color: $a-color;
 }
 
 u,
@@ -79,13 +67,13 @@ ins {
   border-bottom: 1px solid $text-color;
 
   a {
-    color: $a-color;
+    color: inherit;
   }
 }
 
-// del a {
-//   color: inherit;
-// }
+del a {
+  color: inherit;
+}
 
 /* reduce orphans and widows when printing */
 
@@ -271,7 +259,7 @@ figcaption {
   font-size: $type-size-6;
 
   a {
-    color: $a-color;
+    color: inherit;
     text-decoration: none;
     border-bottom: 1px solid $light-gray;
     -webkit-transition: $global-transition;

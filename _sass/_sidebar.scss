@@ -15,7 +15,7 @@
 
   @include breakpoint($large) {
     @include span(2 of 12);
-    opacity: .8;
+    opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
     transition: opacity 0.2s ease-in-out;
 
@@ -72,8 +72,8 @@
 }
 
 /*
-   Author profile and links
-   ========================================================================== */
+     Author profile and links
+     ========================================================================== */
 
 .author__avatar {
   display: table-cell;
@@ -91,11 +91,12 @@
   img {
     max-width: 175px;
     border-radius: 5%;
-    box-shadow: 0px 0px 10px 1px #0D63A5;
 
     @include breakpoint($large) {
       // padding: 5px;
       // border: 1px solid $border-color;
+      border: 1px solid #52adc8;
+      box-shadow: 0px 0px 10px 1px #0D63A5;
     }
   }
 }
@@ -131,15 +132,10 @@
 
 .author__bio {
   margin: 0;
-  color: $bio-color;
 
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 20px;
-  }
-
-  .a {
-    color: inherit;
   }
 }
 
@@ -239,7 +235,7 @@
     padding-right: 5px;
     padding-top: 2px;
     padding-bottom: 2px;
-    color: $a-color;
+    color: inherit;
     font-size: $type-size-5;
     text-decoration: none;
 

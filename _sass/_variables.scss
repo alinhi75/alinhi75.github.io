@@ -65,8 +65,8 @@ $type-size-8 : 0.625em; // ~10px
 
 
 /*
-   Colors
-   ========================================================================== */
+      Colors
+      ========================================================================== */
 
 $gray : #7a8288;
 $dark-gray : mix(#000, $gray, 40%);
@@ -74,30 +74,14 @@ $darker-gray : mix(#000, $gray, 60%);
 $light-gray : mix(#fff, $gray, 50%);
 $lighter-gray : mix(#fff, $gray, 90%);
 
-// $body-color : rgb(19, 255, 117);
 $body-color : #222222;
-$font-color : #ffffff;
-$h1-color :#256D85;
-$h2-color :#256D85;
-$h3-color :#256D85;
-$h4-color :#256D85;
-$h5-color :#256D85;
-$h6-color :#256D85;
-$p-color : rgb(255, 255, 255);
-$a-color :#045757;
-$background-color : #001F3F;
-$hidden-body : #045757;
-$footer-color : #044343;
-$hiden-color : rgb(13, 255, 243);
-$bio-color : #E4E4E4;
-
+$background-color : #222222;
 $code-background-color : #fafafa;
 $code-background-color-dark : $light-gray;
-$text-color : $font-color;
-$border-color : $lighter-gray;
+$text-color : $light-gray;
+$border-color : $darker-gray;
 
-$primary-color : #929292;
-$primary-color : #c2c2c2;
+$primary-color : #7a8288;
 $success-color : #62c462;
 $warning-color : #f89406;
 $danger-color : #ee5f5b;
@@ -135,17 +119,17 @@ $masthead-link-color-hover : mix(#000, $primary-color, 25%);
 
 
 /*
-   Breakpoints
-   ========================================================================== */
+      Breakpoints
+      ========================================================================== */
 
 @include breakpoint-set("to ems", true);
 /*
-$small                      : 400px;
-$medium                     : 500px;
-$medium-wide                : 550px;
-$large                      : 1200px;
-$x-large                    : 1800px;
-*/
+   $small                      : 400px;
+   $medium                     : 500px;
+   $medium-wide                : 550px;
+   $large                      : 1200px;
+   $x-large                    : 1800px;
+   */
 
 $small : 600px !default;
 $medium : 768px !default;
@@ -154,8 +138,8 @@ $large : 825px !default;
 $x-large : 1080px !default;
 
 /*
-   Grid
-   ========================================================================== */
+      Grid
+      ========================================================================== */
 
 $right-sidebar-width-narrow : 0px;
 $right-sidebar-width : 0px;
@@ -180,8 +164,8 @@ $susy: (
 
 
 /*
-   Other
-   ========================================================================== */
+      Other
+      ========================================================================== */
 
 $border-radius : 4px;
 $box-shadow : 0 1px 1px rgba(0, 0, 0, 0.125);
