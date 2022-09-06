@@ -74,24 +74,28 @@ $darker-gray : mix(#000, $gray, 60%);
 $light-gray : mix(#fff, $gray, 50%);
 $lighter-gray : mix(#fff, $gray, 90%);
 
-$body-color : rgb(248, 0, 0);
-
-$background-color : #2b2830;
+$body-color : rgb(19, 255, 117);
+$font-color : rgb(140, 145, 74);
+$h1-color :rgb(255, 175, 2);
+$h2-color :rgb(255, 175, 2);
+$h3-color :rgb(255, 175, 2);
+$h4-color :rgb(255, 175, 2);
+$h5-color :rgb(255, 175, 2);
+$h6-color :rgb(255, 175, 2);
+$p-color :rgb(255, 0, 0);
+$a-color :rgb(255, 35, 126);
+$background-color : rgb(166, 255, 0);
+$hidden-body : rgb(25, 0, 255);
+$footer-color : rgb(255, 81, 255);
+$hiden-color : rgb(13, 255, 243);
+$bio-color : rgb(10, 255, 43);
 
 $code-background-color : #fafafa;
 $code-background-color-dark : $light-gray;
 $text-color : $dark-gray;
 $border-color : $lighter-gray;
 
-// $body-color                 : #fff;
-// $background-color           : #fff;
-// $code-background-color      : #fafafa;
-// $code-background-color-dark : $light-gray;
-// $text-color                 : $dark-gray;
-// $border-color               : $lighter-gray;
-
-// $primary-color : #7a8288;
-$primary-color : #ffbc42;
+$primary-color : #c2c2c2;
 $success-color : #62c462;
 $warning-color : #f89406;
 $danger-color : #ee5f5b;

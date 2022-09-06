@@ -15,7 +15,7 @@
 
   @include breakpoint($large) {
     @include span(2 of 12);
-    opacity: 0.8;
+    opacity: .8;
     -webkit-transition: opacity 0.2s ease-in-out;
     transition: opacity 0.2s ease-in-out;
 
@@ -72,16 +72,16 @@
 }
 
 /*
-     Author profile and links
-     ========================================================================== */
+   Author profile and links
+   ========================================================================== */
 
 .author__avatar {
   display: table-cell;
   vertical-align: top;
   width: 36px;
-
   // set width only, for non-square avatars
   // height: 36px;
+
   @include breakpoint($large) {
     display: block;
     width: auto;
@@ -90,13 +90,11 @@
 
   img {
     max-width: 175px;
-    border-radius: 5%;
+    border-radius: 50%;
 
     @include breakpoint($large) {
-      // padding: 5px;
-      border: 1px solid #f2f3f3;
-
-      // border: 1px solid $border-color;
+      padding: 5px;
+      border: 1px solid $border-color;
     }
   }
 }
@@ -132,10 +130,15 @@
 
 .author__bio {
   margin: 0;
+  color: $bio-color;
 
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 20px;
+  }
+
+  .a {
+    color: inherit;
   }
 }
 
@@ -235,7 +238,7 @@
     padding-right: 5px;
     padding-top: 2px;
     padding-bottom: 2px;
-    color: inherit;
+    color: $a-color;
     font-size: $type-size-5;
     text-decoration: none;
 
