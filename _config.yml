@@ -7,16 +7,16 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Parsa KamaliPour"
+title                    : "Mohammad Hosein(Cena) Ashoori, Eng"
 title_separator          : "-"
-name                     : &name "Parsa KamaliPour"
-description              : &description "Undergraduate Research Assistant | Head Teaching Assistant | Undergrad Computer Engineering student"
-url                      : https://benymaxparsa.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Mohammad Hosein(Cena) Ashoori"
+description              : &description "Software Engineering Student | Teaching/Research Assistant | Full-Stack Develpoer | Computer Science Enthusiast"
+url                      : https://cenaashoori.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "benymaxparsa/benymaxparsa.github.io"
+repository               : "cenaashoori/cenaashoori.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false  # true, false (default)
-seo_description          : "Site for Parsa KamaliPour, Undergrad student of Computer Engineering at Vali-e-Asr University of Rafsanjan"
+seo_description          : "Site for Mohammad Hosein(Cena) Ashoori, Undergrad student of Computer Engineering at Vali-e-Asr University of Rafsanjan"
 words_per_minute         : 160
 future                   : true
 read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
@@ -30,7 +30,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : dark # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -58,7 +58,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -76,20 +76,20 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-221172468-1"
+    tracking_id          : #"UA-221172468-1"
 
 
 # Site Author
 author:
-  name             : "Parsa KamaliPour"
-  avatar           : "profile.png"
-  bio              : "Software Engineering Student | Teaching/Research Assistant | Computer Science Enthusiast <br> <br> Undergradute Research Assistant and Head Teaching Assistant at Vali-e-Asr University of Rafsanjan, <a style='color: black;' href='https://en.vru.ac.ir/department-of-computer-engineering/'>Department of Computer Engineering</a>"
-  location         : "Kerman, Iran"
+  name             : "Mohammad Hosein Ashoori"
+  avatar           : "profile.jpg"
+  bio              : "Software Engineering Student | Teaching/Research Assistant | Full-Stack Developer | Computer Science Enthusiast <br> <br> Undergradute Research/Teaching Assistant at Vali-e-Asr University of Rafsanjan, <a style='color: black;' href='https://en.vru.ac.ir/department-of-computer-engineering/'>Department of Computer Engineering</a>"
+  location         : "Gilan, Iran"
   employer         :
-  pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=eBNZsM0AAAAJ"
-  email            : "parsakamalipour.edu@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Parsa-Kamalipour"
+  pubmed           : 
+  googlescholar    : #"https://scholar.google.com/citations?user=eBNZsM0AAAAJ"
+  email            : "cenaashoori@gmail.com"
+  researchgate     : #"https://www.researchgate.net/profile/Parsa-Kamalipour"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,24 +97,24 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "benymaxparsa"
+  github           : "cenaashoori"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "parsakamalipour"
-  orcid            : "https://orcid.org/0000-0003-2546-9676"
+  linkedin         : "mhashoori"
+  orcid            : #"https://orcid.org/0000-0003-2546-9676"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : 
   vine             :
   weibo            :
   xing             :
-  youtube          : "UCIu6MeO9aaBsLy00XoKO5tw"
+  youtube          : "https://www.youtube.com/channel/UC8lkRTN9WFf4FrCTR04sXVA"
   wikipedia        :
 
 
@@ -191,15 +191,7 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-  education:
-    output: true
-    permalink: /:collection/:path/
-  extracurricular:
-    output: true
-    permalink: /:collection/:path/
-  industry:
-    output: true
-    permalink: /:collection/:path/
+
 
 # Defaults
 defaults:
@@ -265,36 +257,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-
-   # _education
-  - scope:
-      path: ""
-      type: education
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-
-  # _extracurricular
-  - scope:
-      path: ""
-      type: extracurricular
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-
-   # _industry
-  - scope:
-      path: ""
-      type: industry
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+      
 
 # Sass/SCSS
 sass:
