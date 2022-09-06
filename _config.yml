@@ -7,16 +7,16 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mohammad Hosein(Cena) Ashoori, Eng"
+title                    : "Mohammad Hosein Ashoori"
 title_separator          : "-"
-name                     : &name "Mohammad Hosein(Cena) Ashoori"
+name                     : &name "Mohammad Hosein Ashoori"
 description              : &description "Software Engineering Student | Teaching/Research Assistant | Full-Stack Develpoer | Computer Science Enthusiast"
 url                      : https://cenaashoori.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cenaashoori/cenaashoori.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false  # true, false (default)
-seo_description          : "Site for Mohammad Hosein(Cena) Ashoori, Undergrad student of Computer Engineering at Vali-e-Asr University of Rafsanjan"
+seo_description          : "Site for Mohammad Hosein Ashoori, Undergrad student of Computer Engineering at Vali-e-Asr University of Rafsanjan"
 words_per_minute         : 160
 future                   : true
 read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Mohammad Hosein Ashoori"
   avatar           : "profile.jpg"
-  bio              : "Software Engineering Student | Teaching/Research Assistant | Full-Stack Developer | Computer Science Enthusiast <br> <br> Undergradute Research/Teaching Assistant at Vali-e-Asr University of Rafsanjan, <a style='color: black;' href='https://en.vru.ac.ir/department-of-computer-engineering/'>Department of Computer Engineering</a>"
+  bio              : "Software Engineering Student | Teaching/Research Assistant | Full-Stack Developer | Computer Science Enthusiast <br> <br> Undergradute Research/Teaching Assistant at Vali-e-Asr University of Rafsanjan, <a href='https://en.vru.ac.ir/department-of-computer-engineering/'>Department of Computer Engineering</a>"
   location         : "Gilan, Iran"
   employer         :
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=eBNZsM0AAAAJ"
-  email            : "cenaashoori@gmail.com"
+  email            : "mhashoori.edu@gmail.com"
   researchgate     : #"https://www.researchgate.net/profile/Parsa-Kamalipour"
   uri              :
   bitbucket        :
