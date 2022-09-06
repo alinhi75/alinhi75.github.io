@@ -51,7 +51,7 @@
   }
 
   img {
-    // width: 100%;
+    width: 100%;
   }
 }
 
@@ -91,7 +91,7 @@
   img {
     max-width: 175px;
     border-radius: 5%;
-    box-shadow: 0px 0px 10px #ffd717;
+    box-shadow: 0px 0px 10px 1px #0D63A5;
 
     @include breakpoint($large) {
       // padding: 5px;
