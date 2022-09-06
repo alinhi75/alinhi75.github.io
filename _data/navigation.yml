@@ -18,11 +18,14 @@ main:
   - title: "Projects"
     url: /projects/
 
+  - title: "CV"
+    url: /cv/
+
+  - title: "Gallery & Image"
+    url: /gallery/
   # - title: "Blog Posts"
   #   url: /year-archive/
 
-  - title: "CV"
-    url: /cv/
 
   - title: "Courses"
     url: /selected_courses/
@@ -38,6 +41,7 @@ main:
 
   - title: "Honors, Scores, Skills, etc."
     url: /honors_and_extra/
+
 
   # - title: "Guide"
   #   url: /markdown/
