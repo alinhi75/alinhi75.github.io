@@ -75,25 +75,25 @@ $light-gray : mix(#fff, $gray, 50%);
 $lighter-gray : mix(#fff, $gray, 90%);
 
 // $body-color : rgb(19, 255, 117);
-$body-color : #1A1A40;
-$font-color : #0057B8;
-$h1-color :#FFD700;
-$h2-color :#FFD700;
-$h3-color :#FFD700;
-$h4-color :#FFD700;
-$h5-color :#FFD700;
-$h6-color :#FFD700;
+$body-color : #001F3F;
+$font-color : #ffffff;
+$h1-color :#FFD717;
+$h2-color :#FFD717;
+$h3-color :#FFD717;
+$h4-color :#FFD717;
+$h5-color :#FFD717;
+$h6-color :#FFD717;
 $p-color : rgb(255, 255, 255);
 $a-color :rgb(255, 35, 126);
-$background-color : rgb(166, 255, 0);
-$hidden-body : rgb(25, 0, 255);
-$footer-color : rgb(255, 81, 255);
+$background-color : #001F3F;
+$hidden-body : #083358;
+$footer-color : #0D63A5;
 $hiden-color : rgb(13, 255, 243);
-$bio-color : rgb(10, 255, 43);
+$bio-color : #63a3d4;
 
 $code-background-color : #fafafa;
 $code-background-color-dark : $light-gray;
-$text-color : $dark-gray;
+$text-color : $font-color;
 $border-color : $lighter-gray;
 
 $primary-color : #929292;

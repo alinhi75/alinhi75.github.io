@@ -51,7 +51,7 @@
   }
 
   img {
-    width: 100%;
+    // width: 100%;
   }
 }
 
@@ -90,11 +90,12 @@
 
   img {
     max-width: 175px;
-    border-radius: 50%;
+    border-radius: 5%;
+    box-shadow: 0px 0px 10px #ffd717;
 
     @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
+      // padding: 5px;
+      // border: 1px solid $border-color;
     }
   }
 }
