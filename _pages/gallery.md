@@ -1,200 +1,48 @@
 ---
-permalink: /gallery/
-title: "Gallery & Image"
-excerpt: "Gallery & Image"
+permalink: /teaching/Summer-2022-SCB
 author_profile: true
+title: "Instructor for The Summer Coding Bootcamp"
+collection: teaching
+type: "Coding Bootcamp"
+venue: "Vali-e-Asr University Scientific Association of Computer Engineering"
 categories:
   - Post Formats
 tags:
   - gallery
   - Post Formats
   - tiled
+date: 2022-08-01
+location: "Rafsanjān, Kerman, Iran"
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 4"
-    title: "Image 4 title caption"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 5"
-    title: "Image 5 title caption"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 6"
-    title: "Image 6 title caption"
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 7"
-    title: "Image 7 title caption"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 8"
-    title: "Image 8 title caption"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 9"
-    title: "Image 9 title caption"
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 10"
-    title: "Image 10 title caption"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 11"
-    title: "Image 11 title caption"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 12"
-    title: "Image 12 title caption"
-gallery2:
-  - url: https://flic.kr/p/8a6Ven
-    image_path: https://farm2.staticflickr.com/1272/4697500467_8294dac099_q.jpg
-    alt: "Black and grays with a hint of green"
-  - url: https://flic.kr/p/8a738X
-    image_path: https://farm5.staticflickr.com/4029/4697523701_249e93ba23_q.jpg
-    alt: "Made for open text placement"
-  - url: https://flic.kr/p/8a6VXP
-    image_path: https://farm5.staticflickr.com/4046/4697502929_72c612c636_q.jpg
-    alt: "Fog in the trees"
-gallery3:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - image_path: /assets/images/unsplash-gallery-image-4-th.jpg
-    alt: "placeholder image 4"
+  - url: SCB_2022/img1.JPG
+    image_path: SCB_2022/img1.JPG
+    alt: "Main Poster"
+    title: "Main Poster"
+  - url: SCB_2022/img2.JPG
+    image_path: SCB_2022/img2.JPG
+    alt: "Hossein's Poster"
+    title: "Hossein's Poster"
+  - url: SCB_2022/img3.JPG
+    image_path: SCB_2022/img3.JPG
+    alt: "Parsa's Poster"
+    title: "Parsa's Poster"
+  - url: SCB_2022/img4.JPG
+    image_path: SCB_2022/img4.JPG
+    alt: "Cena's Poster"
+    title: "Cena's Poster"
+  - url: SCB_2022/img5.JPG
+    image_path: SCB_2022/img5.JPG
+    alt: "MohMehdi's Poster"
+    title: "MohMehdi's Poster"
 ---
 
----
-## Honors and Awards
-1. **Ranked 6th among all undergraduate computer engineering students of Vali-e-Asr university that started their studies in 2018.**
+The Vali-e-Asr University Scientific Association of Computer Engineering's biggest online event, the Summer Coding Bootcamp, took place in the summer of 2022. 
+It was my honor to be one of the instructors for the bootcamp.
+- [My Youtube channel](https://www.youtube.com/channel/UC8lkRTN9WFf4FrCTR04sXVA)
+- [Our Aparat channel](https://www.aparat.com/computer_vru)
 
-2. **Awarded by government undergraduate tuition waiver scholarship**
-
-
----
-
-## Test Scores
-**TOEFL**: Will be taken at October 29th 2022
-
-**GRE**: Not taken yet
+During this bootcamp, I teach some of the important concepts that everyone will encounter during developing Django and Flutter apps.
 
 
----
+{% include gallery caption="Posters of this event" %}
 
-## Skills
-- #### Programming Languages:
-  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img alt="Matlab" src="https://img.shields.io/badge/Matlab®-%23E34F26.svg?style=for-the-badge&logo=matlab&logoColor=white"/>
-  <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-
-- #### Game Development:
-  <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
-
-- #### Application Development & Frameworks & Libraries:
-  <img alt="Qt" src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white"/>
-  <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img alt="Matplotlib" src="https://img.shields.io/badge/matplotlib-%23316192.svg?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img alt="NetworkX" src="https://img.shields.io/badge/NetworkX-%23316192.svg?style=for-the-badge&logo=NetworkX&logoColor=white"/>
-
-- #### Databases:
-  <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-- #### Markup languages:
-  <img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
-  <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
-
-- #### Tools:
-  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
-  <img alt="Obsidian" src="https://img.shields.io/badge/obsidian-%23150458.svg?style=for-the-badge&logo=obsidian&logoColor=white" />
-
-  <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
-    <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
-    <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-    <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
-
-- #### Partially familiar with (Elementary level):
-  <img alt="VHDL" src="https://img.shields.io/badge/VHDL-%23121011.svg?style=for-the-badge&logo=vhdl&logoColor=white"/>
-  <img alt="Assembly 8086" src="https://img.shields.io/badge/Assembly 8086-%23121011.svg?style=for-the-badge&logo=Assembly8086&logoColor=white"/>
-  <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
-  <img alt="C# WPF" src="https://img.shields.io/badge/WPF-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
-
-
-- #### Software Engineering:
-  <img alt="Refactoring" src="https://img.shields.io/badge/Refactoring-%23121011.svg?style=for-the-badge&logo=Refactoring&logoColor=white"/>
-  <img alt="Debugging" src="https://img.shields.io/badge/Debugging-%23121011.svg?style=for-the-badge&logo=Debugging&logoColor=white"/>
-  <img alt="Unit Testing" src="https://img.shields.io/badge/Unit Testing-%23121011.svg?style=for-the-badge&logo=UnitTesting&logoColor=white"/>
-  <img alt="Agile mythology" src="https://img.shields.io/badge/Agile mythology-%23121011.svg?style=for-the-badge&logo=Agilemythology&logoColor=white"/>
-
-  <img alt="Object Oriented Programming" src="https://img.shields.io/badge/Object Oriented Programming-%23121011.svg?style=for-the-badge&logo=OOP&logoColor=white"/>
-  <img alt="Design of Algorithms" src="https://img.shields.io/badge/Design of Algorithms-%23121011.svg?style=for-the-badge&logo=DesignofAlgorithms&logoColor=white"/>
-  <img alt="Data Structures" src="https://img.shields.io/badge/Data Structures-%23121011.svg?style=for-the-badge&logo=DataStructures&logoColor=white"/>
-
-- #### Soft Skills:
-    Team Work, leadership, Collaboration, Communication, Problem-solving, Critical thinking, Decision-making
-
-- #### Technical Skills:
-    Algorithm Design, Algorithm Analysis, Research, Teaching, Data Mining, Deep Learning, Applied Discrete Mathematics, Algorithmic Graph Theory, Community Detection
-
----
-
-## Languages
-**Persian**: Native language
-
-**English**: Fluent
-
-
----
-
-## Hubbies & Non-Academic Interests
-- Music:
-    * Listening to music, Some of my favorites genres:
-        * Nu Metal, Heavy Metal, Metal
-        * HipHop, R&B, Rap
-        * Country, Soul, Blues
-        * Rock, Heavy Rock
-    * Musical Instruments that I like:
-        * Electric Guitar
-        * Bass Guitar
-        * Piano
-    * Making playlists and sending my hand-pick music to my friends
-    * Going to concerts
-
-- Movie & TV Series & Comic Books:
-    * I am fan of DC universe
-    * I also enjoy Anti-Super-Hero stories. eg. The Boys
-    * Sci-Fi genre
-    * Stories that have a dark tone and are more realistic rather than fake optimistic
-    * Stories that are Detective based & mysterious and probably have a complex scenario
-
-- I enjoy watching stand-up comedy
-
-- Trying new cafe and restaurants
-
-- Weight lifting
-
-- Photography
-
-- Video games
-
-- Travling and visiting new places
