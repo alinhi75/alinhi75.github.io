@@ -4,23 +4,15 @@ collection: projects
 ---
 ***A quick comparison among Python, Cython, and the C languages. A Programming Assignment regarding the Programming Language Design course***
 
-<br />
-<p align="center">
-  
-  <h1 align="center">Runtime analysis of code with plotting</h1>
-
-  <p align="center">
-    A quick comparison among Python, Cython, and the C languages
-    <br />
-    A Programming Assignment regarding the Programming Language Design course.
-    <br />
-    (Fall 2021)
-  <br />
+# Runtime analysis of code with plotting
+A quick comparison among Python, Cython, and the C languages.
+A Programming Assignment regarding the Programming Language Design course.
+(Fall 2021)
 
 * [Github repo](https://github.com/CenaAshoori/sort_cython)
   
 
-<!-- TABLE OF CONTENTS -->
+<!-- TABLE OF CONTENTS
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
@@ -42,11 +34,12 @@ collection: projects
     <li><a href="#testing-and-screenshots">Testing and Screenshots</a></li>
     <li><a href="#license">License</a></li>
   </ol>
-</details>
+</details> -->
 
 
 
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 In this project, we are comparing the execution time of four different approaches, including :
 - Pure C
@@ -146,7 +139,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/CenaAshoori/sort_cython?style=for-the-badge
+<!-- [contributors-shield]: https://img.shields.io/github/contributors/CenaAshoori/sort_cython?style=for-the-badge
 [contributors-url]: https://github.com/CenaAshoori/sort_cython/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/CenaAshoori/sort_cython?style=for-the-badge
 [forks-url]: https://github.com/CenaAshoori/sort_cython/network/members
@@ -164,4 +157,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [milestones-url]: https://github.com/CenaAshoori/sort_cython/milestones
 [license-shield]: https://img.shields.io/github/license/CenaAshoori/sort_cython?style=for-the-badge
 [license-url]: https://github.com/CenaAshoori/sort_cython/blob/main/LICENSE
-
+ -->
