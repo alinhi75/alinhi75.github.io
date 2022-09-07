@@ -1,16 +1,9 @@
 ---
-permalink: /teaching/Summer-2022-SCB
-author_profile: true
 title: "Instructor for The Summer Coding Bootcamp"
 collection: teaching
 type: "Coding Bootcamp"
+permalink: /teaching/Summer-2022-SCB
 venue: "Vali-e-Asr University Scientific Association of Computer Engineering"
-categories:
-  - Post Formats
-tags:
-  - gallery
-  - Post Formats
-  - tiled
 date: 2022-08-01
 location: "Rafsanjān, Kerman, Iran"
 gallery:
