@@ -1,48 +1,103 @@
 ---
-permalink: /teaching/Summer-2022-SCB
+permalink: /gallery/
+title: "Gallery & Images"
+excerpt: "Gallery & Images"
 author_profile: true
-title: "Instructor for The Summer Coding Bootcamp"
-collection: teaching
-type: "Coding Bootcamp"
-venue: "Vali-e-Asr University Scientific Association of Computer Engineering"
-categories:
-  - Post Formats
-tags:
-  - gallery
-  - Post Formats
-  - tiled
-date: 2022-08-01
-location: "Rafsanjān, Kerman, Iran"
 gallery:
-  - url: SCB_2022/img1.JPG
-    image_path: SCB_2022/img1.JPG
-    alt: "Main Poster"
-    title: "Main Poster"
-  - url: SCB_2022/img2.JPG
-    image_path: SCB_2022/img2.JPG
-    alt: "Hossein's Poster"
-    title: "Hossein's Poster"
-  - url: SCB_2022/img3.JPG
-    image_path: SCB_2022/img3.JPG
-    alt: "Parsa's Poster"
-    title: "Parsa's Poster"
-  - url: SCB_2022/img4.JPG
-    image_path: SCB_2022/img4.JPG
-    alt: "Cena's Poster"
-    title: "Cena's Poster"
-  - url: SCB_2022/img5.JPG
-    image_path: SCB_2022/img5.JPG
-    alt: "MohMehdi's Poster"
-    title: "MohMehdi's Poster"
+  - url: Gallery/gal1.jpg
+    image_path: Gallery/gal1.jpg
+    alt: "People in this picture: Ramin Arabpour, Me"
+    title: "People in this picture: Ramin Arabpour, Me"
+
+  - url: Gallery/gal2.jpg
+    image_path: Gallery/gal2.jpg
+    alt: "People in this picture: Sina Ghanbari, Me"
+    title: "People in this picture: Sina Ghanbari, Me"
+
+  - url: Gallery/gal3.jpg
+    image_path: Gallery/gal3.jpg
+    alt: "People in this picture: Sina Ghanbari, Me"
+    title: "People in this picture: Sina Ghanbari, Me"
+
+  - url: Gallery/gal4.jpg
+    image_path: Gallery/gal4.jpg
+    alt: "Me drinking coffee"
+    title: "Me drinking coffee"
+
+  - url: Gallery/gal5.jpg
+    image_path: Gallery/gal5.jpg
+    alt: "Me in a Rock themed cafe"
+    title: "Me in a Rock themed cafe"
+
+  - url: Gallery/gal6.jpg
+    image_path: Gallery/gal6.jpg
+    alt: "People in this picture: Mohammad Hosein(Cena) Ashoori, Mohammad Mehdi Afkhami, Hossein Ahmadi, Me"
+    title: "People in this picture: Mohammad Hosein(Cena) Ashoori, Mohammad Mehdi Afkhami, Hossein Ahmadi, Me"
+
+  - url: Gallery/gal7.jpg
+    image_path: Gallery/gal7.jpg
+    alt: "People in this picture: Me"
+    title: "People in this picture: Me"
+
+  - url: Gallery/gal8.jpg
+    image_path: Gallery/gal8.jpg
+    alt: "People in this picture: Hossein Ahmadi, Me"
+    title: "People in this picture: Hossein Ahmadi, Me"
+
+  - url: Gallery/gal9.jpg
+    image_path: Gallery/gal9.jpg
+    alt: "People in this picture: Mohammad Hosein(Cena) Ashoori, Me"
+    title: "People in this picture: Mohammad Hosein(Cena) Ashoori, Me"
+
+  - url: Gallery/gal10.jpg
+    image_path: Gallery/gal10.jpg
+    alt: "People in this picture: Mohammad Mehdi Afkhami, Me"
+    title: "People in this picture: Mohammad Mehdi Afkhami, Me"
+
+  - url: Gallery/gal11.jpg
+    image_path: Gallery/gal11.jpg
+    alt: "People in this picture: Mohammad Hosein(Cena) Ashoori, Mohammad Mehdi Afkhami, Me"
+    title: "People in this picture: Mohammad Hosein(Cena) Ashoori, Mohammad Mehdi Afkhami, Me"
+
+  - url: Gallery/gal12.jpg
+    image_path: Gallery/gal12.jpg
+    alt: "People in this picture: Mohammad Mehdi Afkhami, Me"
+    title: "People in this picture: Mohammad Mehdi Afkhami, Me"
+
+  - url: Gallery/gal13.jpg
+    image_path: Gallery/gal13.jpg
+    alt: "People in this picture: Mohammad Hosein(Cena) Ashoori, Me"
+    title: "People in this picture: Mohammad Hosein(Cena) Ashoori, Me"
+
+  # - url: Gallery/gal14.jpg
+  #   image_path: Gallery/gal14.jpg
+  #   alt: "People in this picture: Mohammad Hosein(Cena) Ashoori, Mohammad Mehdi Afkhami, Hossein Ahmadi, Me"
+  #   title: "People in this picture: Mohammad Hosein(Cena) Ashoori, Mohammad Mehdi Afkhami, Hossein Ahmadi, Me"
+
+  # - url: Gallery/gal15.jpg
+  #   image_path: Gallery/gal15.jpg
+  #   alt: "People in this picture: Mohammad Hosein(Cena) Ashoori, Hossein Ahmadi, Me"
+  #   title: "People in this picture: Mohammad Hosein(Cena) Ashoori, Hossein Ahmadi, Me"
+
+  # - url: Gallery/gal16.jpg
+  #   image_path: Gallery/gal16.jpg
+  #   alt: "People in this picture: Mohammad Hosein(Cena) Ashoori, Hossein Bazmandegan, Mohammad Mehdi Afkhami, Me"
+  #   title: "People in this picture: Mohammad Hosein(Cena) Ashoori, Hossein Bazmandegan, Mohammad Mehdi Afkhami, Me"
+
+  # - url: Gallery/gal17.jpg
+  #   image_path: Gallery/gal17.jpg
+  #   alt: "People in this picture: Mohammad Hosein(Cena) Ashoori, Mohammad Mehdi Afkhami, Hossein Ahmadi, Me"
+  #   title: "People in this picture: Mohammad Hosein(Cena) Ashoori, Mohammad Mehdi Afkhami, Hossein Ahmadi, Me"
+
+  # - url: Gallery/gal18.jpg
+  #   image_path: Gallery/gal18.jpg
+  #   alt: "People in this picture: Ramin Arabpour, Pooria Mirmazhari, Me"
+  #   title: "People in this picture: Ramin Arabpour, Pooria Mirmazhari, Me"
+
+  # - url: Gallery/gal19.jpg
+  #   image_path: Gallery/gal19.jpg
+  #   alt: "People in this picture: Mohammad Hosein(Cena) Ashoori, Hossein Bazmandegan, Mohammad Mehdi Afkhami, Me"
+  #   title: "People in this picture: Mohammad Hosein(Cena) Ashoori, Hossein Bazmandegan, Mohammad Mehdi Afkhami, Me"
+
 ---
-
-The Vali-e-Asr University Scientific Association of Computer Engineering's biggest online event, the Summer Coding Bootcamp, took place in the summer of 2022. 
-It was my honor to be one of the instructors for the bootcamp.
-- [My Youtube channel](https://www.youtube.com/channel/UC8lkRTN9WFf4FrCTR04sXVA)
-- [Our Aparat channel](https://www.aparat.com/computer_vru)
-
-During this bootcamp, I teach some of the important concepts that everyone will encounter during developing Django and Flutter apps.
-
-
-{% include gallery caption="Posters of this event" %}
-
+{% include gallery caption="Gallery & Images" %}
