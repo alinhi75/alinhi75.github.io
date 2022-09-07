@@ -1,5 +1,5 @@
 ---
-title: "Therteen projects regarding to Microcontroller"
+title: "Therteen projects regarding to Microcontroller course"
 excerpt: "Projects:
 Password Based Door Lock System, 
 ADC Show Temperature & etc..."
