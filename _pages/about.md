@@ -8,23 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-Parsa KamaliPour is currently an undergraduate Computer Engineering student at the Vali-e-Asr university of Rafsanjan. The area of his major is Software Engineering.
+This is Mohammad Hosein Ashoori, or Cena, as my friends call me, and I am an undergraduate student at VRU studying computer engineering.
 
-He’s passionate about theoretical computer science, with interests in the Design & Analysis of Algorithms, Graph Algorithms, Data Mining, Algorithmic Game Theory, Machine Learning, and so on.
+I have extensive experience with machine learning and have used it to solve variety of problems, including detecting abnormalities in chest X-rays, detecting pneumonia in chest X-rays, and detecting abnormalities in MRI. I'm really interested in signal processing and how it can be used to study the brain, so I'm trying to learn more and move up in this field.
 
-In addition to being an undergraduate research assistant, he has been a teacher assistant for more than ten courses to this day. He intends to continue his studies at the graduate level in the near future.
+Furthermore, in the senior year of my bachelor's, I was a teaching assistant for more than five courses, and for the following semester, I'll be a TA for two more courses that I adore, AI and Database, even though I've already graduated.
+
+You can find more details in the following section:
 
 ### [Click here to see my Biography](/biography/)
 
 ### [Click here to see my Education](/education/)
+
+### [Click here to see my scientific papers](/publications/)
 
 ### [Click here to see my Teaching Experiences](/teaching/)
 
 ### [Click here to see my Research Experiences](/research/)
 
 ### [Click here to see my Industry Experiences](/industry/)
-
-### [Click here to see my scientific papers](/publications/)
 
 ### [Click here to see my Projects](/projects/)
 
@@ -35,3 +37,6 @@ In addition to being an undergraduate research assistant, he has been a teacher 
 ### [Click here to see my Extra Curricular Activities](/extracurricular/)
 
 ### [Click here to see my Honors and Awards, Test Scores, Skills, etc.](/honors_and_extra/)
+
+
+
