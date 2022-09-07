@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Mohammad Hosein Ashoori"
   avatar           : "profile.jpg"
-  bio              : "Software Engineering Student | Teaching/Research Assistant | Full-Stack Developer | Computer Science Enthusiast <br> <br> Undergradute Research/Teaching Assistant at Vali-e-Asr University of Rafsanjan, <a href='https://en.vru.ac.ir/department-of-computer-engineering/'>Department of Computer Engineering</a>"
+  bio              : "Software Engineering Student | Teaching/Research Assistant | Full-Stack Dev | Computer Science Enthusiast <br> <br> Undergradute Research/Teaching Assistant at Vali-e-Asr University of Rafsanjan, <a href='https://en.vru.ac.ir/department-of-computer-engineering/'>Department of Computer Engineering</a>"
   location         : "Gilan, Iran"
   employer         :
   pubmed           : 
@@ -100,11 +100,11 @@ author:
   github           : "cenaashoori"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "cenaashoori"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "mhashoori"
-  orcid            : #"https://orcid.org/0000-0003-2546-9676"
+  orcid            : "https://orcid.org/0000-0001-9443-0949"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -114,7 +114,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/UC8lkRTN9WFf4FrCTR04sXVA"
+  youtube          : "UC8lkRTN9WFf4FrCTR04sXVA"
   wikipedia        :
 
 
