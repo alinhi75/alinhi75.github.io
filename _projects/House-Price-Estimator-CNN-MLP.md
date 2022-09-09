@@ -4,11 +4,12 @@ collection: projects
 ---
 ***In this repo with combining text data with image data we'll going to create a regression model, which predict the price of the house. I'll Concatenate MLP (csv) and CNN (image) data together. ***
 
+![](https://github.com/CenaAshoori/ML-House-Price-Estimator-Concat-Image-csv/raw/main/prediction-ex/pic.jpg)
+
+
 * [Github repo](https://github.com/CenaAshoori/ML-House-Price-Estimator-Concat-Image-csv)
 * [In another repo](https://github.com/CenaAshoori/Estate-Price-Predictor) of mine also you can see another project for estate prediction. In that project I just use textual file such as location, area, room. It isn't precise but it has GUI.
 
-## Prediction
-![](https://github.com/CenaAshoori/ML-House-Price-Estimator-Concat-Image-csv/raw/main/prediction-ex/pic.jpg)
 ## 1- Create MLP For `csv`
 ```python
 # define our MLP network
