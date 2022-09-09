@@ -74,7 +74,7 @@ gallery:
     alt: "People in this picture: Parsa Kamalipour, Mohammad Mehdi Afkhami, Hossein Ahmadi, Me"
     title: "People in this picture: Parsa Kamalipour, Mohammad Mehdi Afkhami, Hossein Ahmadi, Me"
 
-- url: Gallery/gal8.jpg
+  - url: Gallery/gal8.jpg
     image_path: Gallery/gal8.jpg
     alt: "People in this picture: Parsa Kamalipour, Hossein Bazmandegan, Mohammad Mehdi Afkhami, Me"
     title: "People in this picture: Parsa Kamalipour, Hossein Bazmandegan, Mohammad Mehdi Afkhami, Me"
