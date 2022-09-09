@@ -44,7 +44,7 @@ gallery:
     alt: "People in this picture: Teaching Django"
     title: "People in this picture: Teaching Django"
 
-  - url: Gallery/gal1.jpg
+  - url: Gallery/gal15.jpg
     image_path: Gallery/gal1.jpg
     alt: "People in this picture: Me"
     title: "People in this picture: Me"
@@ -63,16 +63,21 @@ gallery:
     image_path: Gallery/gal12.jpg
     alt: "People in this picture: Where I want to live"
     title: "People in this picture: Where I want to live"
-  
-  # - url: Gallery/gal8.jpg
-  #   image_path: Gallery/gal8.jpg
-  #   alt: "People in this picture: Parsa Kamalipour, Hossein Bazmandegan, Mohammad Mehdi Afkhami, Me"
-  #   title: "People in this picture: Parsa Kamalipour, Hossein Bazmandegan, Mohammad Mehdi Afkhami, Me"
 
-  # - url: Gallery/gal14.jpg
-  #   image_path: Gallery/gal14.jpg
-  #   alt: "People in this picture: Parsa Kamalipour, Mohammad Mehdi Afkhami, Hossein Ahmadi, Me"
-  #   title: "People in this picture: Parsa Kamalipour, Mohammad Mehdi Afkhami, Hossein Ahmadi, Me"
+  - url: Gallery/gal1.jpg
+    image_path: Gallery/gal1.jpg
+    alt: "People in this picture: Me"
+    title: "People in this picture: Me"
+  
+  - url: Gallery/gal14.jpg
+    image_path: Gallery/gal14.jpg
+    alt: "People in this picture: Parsa Kamalipour, Mohammad Mehdi Afkhami, Hossein Ahmadi, Me"
+    title: "People in this picture: Parsa Kamalipour, Mohammad Mehdi Afkhami, Hossein Ahmadi, Me"
+
+- url: Gallery/gal8.jpg
+    image_path: Gallery/gal8.jpg
+    alt: "People in this picture: Parsa Kamalipour, Hossein Bazmandegan, Mohammad Mehdi Afkhami, Me"
+    title: "People in this picture: Parsa Kamalipour, Hossein Bazmandegan, Mohammad Mehdi Afkhami, Me"
 
   # - url: Gallery/gal15.jpg
   #   image_path: Gallery/gal15.jpg
