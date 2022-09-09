@@ -45,7 +45,7 @@ gallery:
     title: "People in this picture: Teaching Django"
 
   - url: Gallery/gal15.jpg
-    image_path: Gallery/gal1.jpg
+    image_path: Gallery/gal15.jpg
     alt: "People in this picture: Me"
     title: "People in this picture: Me"
 

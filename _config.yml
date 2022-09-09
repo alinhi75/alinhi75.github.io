@@ -191,8 +191,15 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-
-
+  education:
+    output: true
+    permalink: /:collection/:path/
+  extracurricular:
+    output: true
+    permalink: /:collection/:path/
+  industry:
+    output: true
+    permalink: /:collection/:path/
 # Defaults
 defaults:
   # _posts

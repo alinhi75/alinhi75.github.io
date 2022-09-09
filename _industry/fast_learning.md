@@ -3,19 +3,19 @@ title: "Full-Stack Developer at Fast Learning - Canada, Montreal"
 collection: industry
 permalink: /industry/Fast-Learning
 author_profile: true
-# gallery:
-#   - url: Fast_learning/0.jpg
-#     image_path: Fast_learning/0.jpg
-#     alt: "Screen Shot of Application"
-#     title: "Screen Shot of Application"
-#   - url: Fast_learning/1.jpg
-#     image_path: Fast_learning/1.jpg
-#     alt: "Screen Shot of Application"
-#     title: "Screen Shot of Application"
-#   - url: Fast_learning/2.jpg
-#     image_path: Fast_learning/2.jpg
-#     alt: "Screen Shot of Application"
-#     title: "Screen Shot of Application"
+gallery:
+  - url: Fast_learning/0.jpg
+    image_path: Fast_learning/0.jpg
+    alt: "Screen Shot of Application"
+    title: "Screen Shot of Application"
+  - url: Fast_learning/1.jpg
+    image_path: Fast_learning/1.jpg
+    alt: "Screen Shot of Application"
+    title: "Screen Shot of Application"
+  - url: Fast_learning/2.jpg
+    image_path: Fast_learning/2.jpg
+    alt: "Screen Shot of Application"
+    title: "Screen Shot of Application"
 
 ---
 ***Fast Learning Application***
