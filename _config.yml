@@ -264,7 +264,38 @@ defaults:
       author_profile: true
       share: true
       comments: true
-      
+ 
+    # _education
+  - scope:
+      path: ""
+      type: education
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+
+  # _extracurricular
+  - scope:
+      path: ""
+      type: extracurricular
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+
+    # _industry
+  - scope:
+      path: ""
+      type: industry
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+
+     
 
 # Sass/SCSS
 sass:
