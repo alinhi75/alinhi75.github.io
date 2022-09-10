@@ -3,19 +3,19 @@ title: "Full-Stack Developer at Fast Learning - Canada, Montreal"
 collection: industry
 permalink: /industry/Fast-Learning
 author_profile: true
-gallery:
-  - url: Fast_learning/0.jpg
-    image_path: Fast_learning/0.jpg
-    alt: "Screen Shot of Application"
-    title: "Screen Shot of Application"
-  - url: Fast_learning/1.jpg
-    image_path: Fast_learning/1.jpg
-    alt: "Screen Shot of Application"
-    title: "Screen Shot of Application"
-  - url: Fast_learning/2.jpg
-    image_path: Fast_learning/2.jpg
-    alt: "Screen Shot of Application"
-    title: "Screen Shot of Application"
+# gallery:
+#   - url: Fast_learning/0.jpg
+#     image_path: Fast_learning/0.jpg
+#     alt: "Screen Shot of Application"
+#     title: "Screen Shot of Application"
+#   - url: Fast_learning/1.jpg
+#     image_path: Fast_learning/1.jpg
+#     alt: "Screen Shot of Application"
+#     title: "Screen Shot of Application"
+#   - url: Fast_learning/2.jpg
+#     image_path: Fast_learning/2.jpg
+#     alt: "Screen Shot of Application"
+#     title: "Screen Shot of Application"
 
 ---
 ***Fast Learning Application***
@@ -24,7 +24,7 @@ gallery:
 
 
 
-{% include gallery caption="Gallery & Images" %}
+<!-- {% include gallery caption="Gallery & Images" %} -->
 
 You can transform any educational material such as books,
 notes, podcasts or any other thing into a flashcard, and by the
