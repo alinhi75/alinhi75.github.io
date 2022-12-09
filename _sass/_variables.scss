@@ -68,11 +68,11 @@ $type-size-8 : 0.625em; // ~10px
       Colors
       ========================================================================== */
 
-$gray : #7f62b9;
-$dark-gray : mix(#fff, $gray, 40%);
-$darker-gray : mix(#fff, $gray, 60%);
-$light-gray : mix(#000, $gray, 50%);
-$lighter-gray : mix(#000, $gray, 70%);
+$gray : #9894a151;
+$dark-gray : mix(rgba(107, 95, 95, 0.322), $gray, 40%);
+$darker-gray : mix(rgb(36, 36, 36), $gray, 60%);
+$light-gray : mix(rgb(98, 98, 98), $gray, 50%);
+$lighter-gray : mix(rgb(125, 125, 125), $gray, 70%);
 
 $body-color : #ebebeb;
 $background-color : #ffffff;
@@ -172,4 +172,3 @@ $box-shadow : 0 1px 1px rgba(0, 0, 0, 0.125);
 $navicon-width : 28px;
 $navicon-height : 4px;
 $global-transition : all 0.2s ease-in-out;
-$intro-transition: intro 0.3s both !default;
