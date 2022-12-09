@@ -7,16 +7,16 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mohammad Hosein Ashoori"
+title                    : "Meelad Dashti"
 title_separator          : "-"
-name                     : &name "Mohammad Hosein Ashoori"
-description              : &description "Software Engineering Student | Teaching/Research Assistant | Full-Stack Develpoer | Computer Science Enthusiast"
-url                      : https://cenaashoori.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Meelad Dashti"
+description              : &description "Software Engineering Student | Teaching Assistant | App Developer | Technology Enthusiast | Economic Enthusiast"
+url                      : https://meldashti.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "cenaashoori/cenaashoori.github.io"
+repository               : "meldashti/meldashti.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false  # true, false (default)
-seo_description          : "Site for Mohammad Hosein Ashoori, Undergrad student of Computer Engineering at Vali-e-Asr University of Rafsanjan"
+seo_description          : "Site for Meelad Dashti, Undergrad student of Computer Engineering at Yazd University"
 words_per_minute         : 160
 future                   : true
 read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
@@ -58,7 +58,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "CenaAshoori"
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -81,15 +81,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mohammad Hosein Ashoori"
+  name             : "Meelad Dashti"
   avatar           : "profile.jpg"
-  bio              : "Software Engineering Student | Teaching/Research Assistant | Full-Stack Dev | Computer Science Enthusiast <br> <br> Undergradute Research/Teaching Assistant at Vali-e-Asr University of Rafsanjan, <a href='https://en.vru.ac.ir/department-of-computer-engineering/'>Department of Computer Engineering</a>"
-  location         : "Gilan, Iran"
+  bio              : "Software Engineering Student | Teaching Assistant | App/Web Dev | Technology Enthusiast <br> <br>"
+  location         : "Yazd, Iran"
   employer         :
   pubmed           : 
-  googlescholar    : #"https://scholar.google.com/citations?user=eBNZsM0AAAAJ"
-  email            : "mhashoori.edu@gmail.com"
-  researchgate     : #"https://www.researchgate.net/profile/Parsa-Kamalipour"
+  googlescholar    : 
+  email            : "meeladd7@gmail.com"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -97,24 +97,24 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "cenaashoori"
+  github           : "meldashti"
   google_plus      :
   keybase          :
-  instagram        : "cenaashoori"
+  instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "mhashoori"
-  orcid            : "https://orcid.org/0000-0001-9443-0949"
+  linkedin         : "MeeladDashti"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : https://stackoverflow.com/users/12311659/melthecoder
   steam            :
   tumblr           :
-  twitter          : "CenaAshoori"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
-  youtube          : "UC8lkRTN9WFf4FrCTR04sXVA"
+  youtube          : 
   wikipedia        :
 
 

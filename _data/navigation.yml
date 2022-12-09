@@ -21,10 +21,10 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Gallery & Image"
-    url: /gallery/
-  # - title: "Blog Posts"
-  #   url: /year-archive/
+  # - title: "Gallery & Image"
+  #   url: /gallery/
+  - title: "Blog Posts"
+    url: /year-archive/
 
 
   - title: "Courses"

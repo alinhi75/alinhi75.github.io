@@ -21,7 +21,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #e4d7ff;
+  color: #000000;
   margin: 2em 0 0.5em;
   line-height: 1.2;
   font-family: $header-font-family;
@@ -255,7 +255,7 @@ figure {
 
 figcaption {
   margin-bottom: 0.5em;
-  color: mix(#fff, $text-color, 25%);
+  color: mix(rgb(0, 0, 0), $text-color, 25%);
   font-family: $caption-font-family;
   font-size: $type-size-6;
 
