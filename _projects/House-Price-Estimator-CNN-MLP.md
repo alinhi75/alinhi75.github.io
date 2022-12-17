@@ -1,63 +1,36 @@
 ---
-title: "House Price Estimator With Concatenating CNN(image) and MLP(its textual info: room, bath, etc...)"
+title: "Ecommerce Application"
 collection: projects
+gallery:
+  - url: /images/shopfiesta/image031.png
+    image_path: /images/image003.png
+    alt: "Astar logo"
+    title: "Astar logo"
 ---
-***In this repo with combining text data with image data we'll going to create a regression model, which predict the price of the house. I'll Concatenate MLP (csv) and CNN (image) data together. ***
+***Shopfiesta - An Ecommerce Application ***
 
 ![](https://github.com/CenaAshoori/ML-House-Price-Estimator-Concat-Image-csv/raw/main/prediction-ex/pic.jpg)
 
 
-* [Github repo](https://github.com/CenaAshoori/ML-House-Price-Estimator-Concat-Image-csv)
-* [In another repo](https://github.com/CenaAshoori/Estate-Price-Predictor) of mine also you can see another project for estate prediction. In that project I just use textual file such as location, area, room. It isn't precise but it has GUI.
+* [Github repo](https://github.com/MelDashti/e-commerce-app)
 
-## 1- Create MLP For `csv`
-```python
-# define our MLP network
-mlp = Sequential()
-mlp.add(Dense(8, input_dim=dim, activation="relu"))
-mlp.add(Dense(4, activation="relu"))
-```
-## 2- Create CNN For `Images`
-```python
-# loop over the number of filters
-for (i, f) in enumerate(filters):
-    # if this is the first CONV layer then set the input
-    # appropriately
-    if i == 0:
-        x = inputs
 
-    # CONV => RELU => BN => POOL
-    x = Conv2D(f, (3, 3), padding="same")(x)
-    x = Activation("relu")(x)
-    x = BatchNormalization(axis=chanDim)(x)
-    x = MaxPooling2D(pool_size=(2, 2))(x)
-    
-# flatten the volume, then FC => RELU => BN => DROPOUT
-x = Flatten()(x)
-x = Dense(16)(x)
-x = Activation("relu")(x)
-x = BatchNormalization(axis=chanDim)(x)
-x = Dropout(0.5)(x)
+## 1- App design in `Figma`
 
-# apply another FC layer, this one to match the number of nodes
-# coming out of the MLP
-x = Dense(4)(x)
-x = Activation("relu")(x)
+## 2- Create App in `Android Studio`
 
-# construct the CNN
-cnn = Model(inputs, x)
+## 3- Using MVVM Architecture 
 
-```
+## 4- Dependency Injections With `Hilt`
 
-## 3- Concatenate MLP (csv) and CNN (image) data together
+## 5- Nav Graphs
 
-```python
-combinedInput = concatenate([mlp.output, cnn.output])
+## 6- DBMS setup with PHP & Mysql
 
-# our final FC layer head will have two dense layers, the final one
-# being our regression head
-x = Dense(4, activation="relu")(combinedInput)
-x = Dense(1, activation="linear")(x)
+## 7- Push Notifications Using Firebase
 
-model = Model(inputs=[mlp.input, cnn.input], outputs=x)
-```
+## 8- Creating Api for product purchases
+
+## 9- Final Product
+
+

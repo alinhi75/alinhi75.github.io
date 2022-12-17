@@ -15,7 +15,11 @@ author_profile: true
 ---
 
 ## Test Scores
-**TOEFL**: Will be taken at October 5th 2022
+**IELTS**: Overall 8 
+  Speaking: 8.5
+  Reading: 8.0
+  Listening: 8.0
+  Writing: 7.0
 
 **GRE**: Not taken yet
 
@@ -86,45 +90,4 @@ author_profile: true
 - #### Technical Skills:
     Algorithm Design, Algorithm Analysis, Research, Teaching, Data Mining, Deep Learning, Applied Discrete Mathematics, Algorithmic Graph Theory, Community Detection
 
----
 
-## Languages
-**Persian**: Native language
-
-**English**: Fluent
-
-
----
-
-## Hubbies & Non-Academic Interests
-- Music:
-    * Listening to music, Some of my favorites genres:
-        * Nu Metal, Heavy Metal, Metal
-        * HipHop, R&B, Rap
-        * Country, Soul, Blues
-        * Rock, Heavy Rock
-    * Musical Instruments that I like:
-        * Electric Guitar
-        * Bass Guitar
-        * Piano
-    * Making playlists and sending my hand-pick music to my friends
-    * Going to concerts
-
-- Movie & TV Series & Comic Books:
-    * I am fan of DC universe
-    * I also enjoy Anti-Super-Hero stories. eg. The Boys
-    * Sci-Fi genre
-    * Stories that have a dark tone and are more realistic rather than fake optimistic
-    * Stories that are Detective based & mysterious and probably have a complex scenario
-
-- I enjoy watching stand-up comedy
-
-- Trying new cafe and restaurants
-
-- Weight lifting
-
-- Photography
-
-- Video games
-
-- Travling and visiting new places
