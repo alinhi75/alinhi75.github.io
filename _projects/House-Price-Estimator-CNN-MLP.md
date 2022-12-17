@@ -3,7 +3,7 @@ title: "Ecommerce Application"
 collection: projects
 gallery:
   - url: /images/shopfiesta/image031.png
-    image_path: /images/image003.png
+    image_path: /images/shopfiesta/image031.png
     alt: "Main Page"
     title: "Main Page"
 ---
