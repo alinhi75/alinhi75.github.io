@@ -7,22 +7,26 @@ gallery:
     alt: "Main Page"
     title: "Main Page"
 ---
-***Shopfiesta - An Ecommerce Application ***
+Shopfiesta is an Ecommerce Application that follows Modern Android Development Practices and uses the latest tools. This application demonstrates modern android development with Hilt, Coroutines, Flow, Jetpack (Room, ViewModel), and Material Design based on MVVM architecture.
 
-{% include gallery caption="Main Page" %}
-
-<!-- ![](https://github.com/CenaAshoori/ML-House-Price-Estimator-Concat-Image-csv/raw/main/prediction-ex/pic.jpg) -->
+![](/images/shopfiesta/shopfiesta.png)
 
 
 * [Github repo](https://github.com/MelDashti/e-commerce-app)
 
 
 ## 1- App design in `Figma`
+First, I prepared 
+
+![](/images/shopfiesta/image003.png)
+
 
 ## 2- Create App in `Android Studio`
 ![](/images/shopfiesta/image031.png)
 
 ## 3- Using MVVM Architecture 
+
+Shopfiesta is based on the MVVM architecture and the Repository pattern, which follows the Google's official architecture guidance.
 
 
 ## 4- Dependency Injections With `Hilt`
@@ -35,6 +39,8 @@ gallery:
 
 ## 8- Creating Api for product purchases
 
-## 9- Final Product
+## 9- Using JWT Tokens
+
+## 10- Final Product
 
 
