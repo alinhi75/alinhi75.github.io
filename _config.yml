@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Meelad Dashti"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Meelad Dashti"
 description              : &description "Software Engineering Student | Teaching Assistant | App Developer | Technology Enthusiast | Economic Enthusiast"
@@ -179,16 +179,10 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
   projects:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
-    permalink: /:collection/:path/
-  research:
     output: true
     permalink: /:collection/:path/
   education:
@@ -229,15 +223,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+
   # _projects
   - scope:
       path: ""
@@ -255,15 +241,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _research
-  - scope:
-      path: ""
-      type: research
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+
  
     # _education
   - scope:

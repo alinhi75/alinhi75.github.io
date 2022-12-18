@@ -1,7 +1,5 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
 
   - title: "Biography"
     url: /biography/
@@ -12,23 +10,26 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Research"
-    url: /research/
-
   - title: "Projects"
     url: /projects/
-
-  - title: "CV"
-    url: /cv/
-
-  # - title: "Gallery & Image"
-  #   url: /gallery/
-  - title: "Blog Posts"
-    url: /year-archive/
 
 
   - title: "Courses"
     url: /selected_courses/
+
+
+  - title: "CV"
+    url: /cv/
+
+
+  - title: "Honors, Scores, Skills, etc."
+    url: /honors_and_extra/
+
+  
+  - title: "Blog Posts"
+    url: /year-archive/
+
+
 
   - title: "Education"
     url: /education/
@@ -39,8 +40,6 @@ main:
   - title: "Industry Experiences"
     url: /industry/
 
-  - title: "Honors, Scores, Skills, etc."
-    url: /honors_and_extra/
 
 
   # - title: "Guide"
