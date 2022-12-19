@@ -1,46 +1,22 @@
 # main links links
 main:
 
-  - title: "Biography"
-    url: /biography/
-
-  # - title: "Talks"
-  #   url: /talks/
-
-  - title: "Teaching"
-    url: /teaching/
-
   - title: "Projects"
     url: /projects/
-
-
-  - title: "Courses"
-    url: /selected_courses/
-
 
   - title: "CV"
     url: /cv/
 
+  - title: "Teaching"
+    url: /teaching/
 
+  - title: "Courses"
+    url: /selected_courses/
+
+  
   - title: "Honors, Scores, Skills, etc."
     url: /honors_and_extra/
 
   
   - title: "Blog Posts"
     url: /year-archive/
-
-
-
-  - title: "Education"
-    url: /education/
-
-  - title: "Extra Curricular Activities"
-    url: /extracurricular/
-
-  - title: "Industry Experiences"
-    url: /industry/
-
-
-
-  # - title: "Guide"
-  #   url: /markdown/
