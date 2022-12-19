@@ -9,8 +9,7 @@ gallery:
 ---
 ***Internet Engineering Project - This is a full-stack project that I developed for my Internet Engineering Course.***
   
-
-{% include gallery caption="NetEng logo" %}
+![](/images/net.jpg)
 
 
 * [Github repo](https://github.com/MelDashti/net-eng-project) 
