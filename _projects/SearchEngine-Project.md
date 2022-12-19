@@ -3,7 +3,6 @@ title: "Search Engine Project"
 collection: projects
 ---
 
-# Local Search Engine 
 An offline search engine that I built in Java for my Information Retrieval & Web Search course. This Search Engine can Parse, Index, Rank, and finally perform an efficient search for thousands of HTML webpages parsed from XML Files in a few seconds. 
 * [Github repo](https://github.com/MelDashti/Search-Engine-Project)  
 

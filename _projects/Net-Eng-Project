@@ -1,41 +1,29 @@
 ---
-title: "Internet Eng Project"
+title: "Search Engine Project"
 collection: projects
-gallery:
-  - url: /images/net.jpg
-    image_path: /images/net.jpg
-    alt: "NetEng logo"
-    title: "NetEng logo"
 ---
-***Internet Engineering Project - This is a full-stack project that I developed for my Internet Engineering Course.***
-  
-![](/images/net.jpg)
+
+An offline search engine that I built in Java for my Information Retrieval & Web Search course. This Search Engine can Parse, Index, Rank, and finally perform an efficient search for thousands of HTML webpages parsed from XML Files in a few seconds. 
+* [Github repo](https://github.com/MelDashti/Search-Engine-Project)  
 
 
-* [Github repo](https://github.com/MelDashti/net-eng-project) 
-* You can check out the website here: https://dxtsmk.sse.codesandbox.io/
+# Parsing 
+XML Files were parsed using Document Builder and the following tags were extracted <HTML> <DOCID> and <URL>
+The HTML tags <title> and <body>  were parsed using JSOUP.
 
-<!-- ABOUT THE PROJECT -->
-# Internet Engineering Project 
+# Indexing 
+Dictionary and posting list is saved in the following data structure : Map<String, List<String>> index
 
-A simple website for a company where employees can subscribe to the weekly newsletter. Employees that Subscribed can also be viewed and searched for customized newsletter. 
- 
-# CodeSandBox 
+# Search 
+With the help of posting list we perform the search across 10700 html documents
 
-This project was built and hosted on codesandbox.
 
-Backend: https://dxtsmk.sse.codesandbox.io/
-Signup: https://h8uhfv.csb.app/
-Search: https://utozmb.csb.app/
-View Subscribers: https://ehgi3o.csb.app/
+# What I Learnt 
 
-# What I learnt
+* Built an inverted index
+* Importance of ranking in a search engine.
+* Techniques to improve speed and efficiency in a search engine.
+* Dealt with complications of parsing searchable information from a few cluttered and unorganized HTML web pages. 
 
-- React.js for building interactive user interfaces. (User Sign Up, Search Feature, View User Details).
-- MongoDB a NoSQL database program that was used for saving user information. 
-- Node.js for handling database connections and making calls to REST API. 
-- Node.js and Express.js for building REST API.
-- SASS for further improving website style.
-- HTML, CSS, and JS for creating a welcome page for the backend. 
 
-Screenshots: 
+
