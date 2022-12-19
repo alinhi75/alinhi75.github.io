@@ -9,7 +9,7 @@ gallery:
 ---
 ***Nemad App - An application for registering complaints and giving suggestions with ratings for different private and public organizations in the city of Yazd.***
 
-{% include gallery caption="Nemad logo" %}
+![](/images/nemad_app/Nemad.png)
 
 
 * [Github repo](private for security purposes) 

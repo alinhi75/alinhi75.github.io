@@ -1,4 +1,4 @@
 ---
-title: "Multiple projects regarding to Artificial Intelligence course"
+title: "AI Deep Learning Projects"
 collection: projects
 ---

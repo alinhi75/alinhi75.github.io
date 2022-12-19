@@ -1,5 +1,5 @@
 ---
-title: "Connect an existing MySQL database to a Django project"
+title: "To-Do List App"
 collection: projects
 ---
 ***To-Do List App***

@@ -1,5 +1,5 @@
 ---
-title: "Multiple projects regarding to Data Structures and Algorithms course"
+title: "Stock Price Predictor"
 collection: projects
 ---
 ***Designing and implementation of:***
