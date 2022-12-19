@@ -2,8 +2,8 @@
 title: "Ecommerce Application"
 collection: projects
 gallery:
-  - url: /images/shopfiesta/shopfiesta.png
-    image_path: /images/shopfiesta/shopfiesta.png
+  - url: /images/shopfiesta.png
+    image_path: /images/shopfiesta.png
     alt: "Main"
     title: "Main"
 ---
