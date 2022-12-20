@@ -1,12 +1,17 @@
 ---
 title: "Ecommerce Application"
 collection: projects
+gallery:
+  - url: /images/shopfiesta.png
+    image_path: /images/shopfiesta.png
+    alt: "shopfiesta logo"
+    title: "shopfiesta logo"
 ---
 
 ***Shopfiesta - An Ecom Application***
 Shopfiesta is an Ecommerce Application that follows Modern Android Development Practices and uses the latest tools. This application demonstrates modern android development with Hilt, Coroutines, Flow, Jetpack (Room, ViewModel), and Material Design based on MVVM architecture.
 
-![](/images//shopfiesta.png)
+{% include gallery caption="shopfiesta logo" %}
 
 
 * [Github repo](https://github.com/MelDashti/e-commerce-app)
