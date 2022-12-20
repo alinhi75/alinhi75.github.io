@@ -1,7 +1,8 @@
 ---
 title: "Ecommerce Application"
 collection: projects
-header: /images/shopfiesta.png
+header:
+   teaser: "/images/shopfiesta.png"
 ---
 
 ***Shopfiesta - An Ecom Application***

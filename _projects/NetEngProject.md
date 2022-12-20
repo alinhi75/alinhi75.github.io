@@ -1,6 +1,8 @@
 ---
 title: "Internet Eng Project"
 collection: projects
+header:
+  teaser: "/images/net.jpg"
 
 ---
 ***This is a full-stack project that I developed for my Internet Engineering Course.***
