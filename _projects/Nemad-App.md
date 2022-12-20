@@ -1,16 +1,11 @@
 ---
 title: "Nemad Application"
 collection: projects
-gallery:
-  - url: /images/nemad_app/Nemad.png
-    image_path: /images/nemad_app/Nemad.png
-    alt: "Nemad logo"
-    title: "Nemad logo"
 ---
+
 ***Nemad App - An application for registering complaints and giving suggestions with ratings for different private and public organizations in the city of Yazd.***
 
 ![](/images/nemad_app/Nemad.png)
-
 
 * [Github repo](private for security purposes) 
 * You can check out the web version here: nemad.ostanyazd.ir

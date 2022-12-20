@@ -3,19 +3,19 @@ title: "Internet Eng Project"
 collection: projects
 
 ---
-***Internet Engineering Project - This is a full-stack project that I developed for my Internet Engineering Course.***
-  
+***This is a full-stack project that I developed for my Internet Engineering Course.***
+ - A simple website for a company where employees can subscribe to the weekly newsletter. Employees that Subscribed can also be viewed and searched for customized newsletter. 
+
 ![](/images/net.jpg)
 
 
 * [Github repo](https://github.com/MelDashti/net-eng-project) 
-* You can check out the website here: https://dxtsmk.sse.codesandbox.io/
+* You can check out the website here: [https://dxtsmk.sse.codesandbox.io/]()
 
 <!-- ABOUT THE PROJECT -->
 # Internet Engineering Project 
 
-A simple website for a company where employees can subscribe to the weekly newsletter. Employees that Subscribed can also be viewed and searched for customized newsletter. 
- 
+
 # CodeSandBox 
 
 This project was built and hosted on codesandbox.
