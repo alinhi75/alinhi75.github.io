@@ -1,11 +1,7 @@
 ---
 title: "Ecommerce Application"
 collection: projects
-gallery:
-  - url: /images/shopfiesta.png
-    image_path: /images/shopfiesta.png
-    alt: "shopfiesta logo"
-    title: "shopfiesta logo"
+header: /images/shopfiesta.png
 ---
 
 ***Shopfiesta - An Ecom Application***
