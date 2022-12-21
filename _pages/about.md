@@ -14,8 +14,6 @@ You can find more details in the following section:
 
 ### Click here to see my [Projects](/projects/)
 
-### Click here to see my [Teaching Experiences](/teaching/)
-
 ### Click here to see my [CV](/cv/)
 
 ### Click here to see my [Selected Courses](/selected_courses/)
