@@ -1,6 +1,7 @@
 ---
-title: "To Do List Application"
+title: To Do List Application
 collection: projects
+excerpt: "This is a todolist app"
 ---
 
 ***Todo list application is a simple and compact app where you can set reminders. The tasks are categorized such that the user can view tasks on priority basis.***

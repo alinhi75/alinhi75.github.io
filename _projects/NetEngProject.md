@@ -2,7 +2,7 @@
 title: "Internet Eng Project"
 collection: projects
 header:
-  teaser: "/images/net.jpg"
+
 
 ---
 ***Internet Engineering Project***
