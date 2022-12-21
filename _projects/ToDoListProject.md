@@ -3,7 +3,7 @@ title: "To Do List Application"
 collection: projects
 ---
 
-*** Todo list application is a simple and compact app where you can set reminders. The tasks are categorized such that the user can view tasks on priority basis.**
+***Todo list application is a simple and compact app where you can set reminders. The tasks are categorized such that the user can view tasks on priority basis.***
 
 
 ![coverpic](https://user-images.githubusercontent.com/72992585/208755204-ebf6f6c6-4f7a-4897-8e67-c3df20ab069c.png)
