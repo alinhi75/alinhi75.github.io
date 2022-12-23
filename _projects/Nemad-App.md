@@ -1,7 +1,8 @@
 ---
 title: "Nemad Application"
 collection: projects
-exc
+excerpt: Nemad is a smart management system for the city of Yazd that allows people to send their complaints, suggestions, experience and rating about managers and services in different organizations.
+
 ---
 
 ***An application for registering complaints and giving suggestions with ratings for different private and public organizations in the city of Yazd.***

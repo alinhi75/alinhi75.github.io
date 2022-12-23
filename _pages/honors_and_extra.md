@@ -5,15 +5,6 @@ excerpt: "Honors and Awards, Test Scores, Skills, etc."
 author_profile: true
 ---
 
----
-## Honors and Awards
-1. **Ranked 6th among all undergraduate computer engineering students of Vali-e-Asr university that started their studies in 2018.**
-
-2. **Awarded by government undergraduate tuition waiver scholarship**
-
-
----
-
 ## Test Scores
 **IELTS**: Overall 8 
   Speaking: 8.5
@@ -28,6 +19,7 @@ author_profile: true
 
 ## Skills
 - #### Programming Languages:
+  <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%23000000.svg?style=for-the-badge&logo=kotlin&logoColor=blue"/>
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img alt="Matlab" src="https://img.shields.io/badge/Matlab®-%23E34F26.svg?style=for-the-badge&logo=matlab&logoColor=white"/>
@@ -35,8 +27,6 @@ author_profile: true
   <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 
-- #### Game Development:
-  <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
 
 - #### Application Development & Frameworks & Libraries:
   <img alt="Qt" src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white"/>
@@ -66,12 +56,6 @@ author_profile: true
     <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
     <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 
-- #### Partially familiar with (Elementary level):
-  <img alt="VHDL" src="https://img.shields.io/badge/VHDL-%23121011.svg?style=for-the-badge&logo=vhdl&logoColor=white"/>
-  <img alt="Assembly 8086" src="https://img.shields.io/badge/Assembly 8086-%23121011.svg?style=for-the-badge&logo=Assembly8086&logoColor=white"/>
-  <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
-  <img alt="C# WPF" src="https://img.shields.io/badge/WPF-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
 
 
 - #### Software Engineering:
