@@ -1,7 +1,7 @@
 ---
 title: "Internet Eng Project"
 collection: projects
-excerpt: This is a full-stack project that I developed for my Internet Engineering Course. A simple website for a company where employees can subscribe to the weekly newsletter. Employees that Subscribed can also be viewed and searched for customized newsletter. ![](/images/net.jpg)
+excerpt: This is a full-stack project that I developed for my Internet Engineering Course. A simple website for a company where employees can subscribe to the weekly newsletter. Employees that Subscribed can also be viewed and searched for customized newsletter. <br/><br/> ![](/images/net.jpg)
 
 ---
 ***Internet Engineering Project***
