@@ -22,10 +22,10 @@ excerpt: This is a full-stack project that I developed for my Internet Engineeri
 
 This project was built and hosted on codesandbox.
 
-- Backend: ![](https://dxtsmk.sse.codesandbox.io/)
-- Signup: https://h8uhfv.csb.app/
-- Search: https://utozmb.csb.app/
-- View Subscribers: https://ehgi3o.csb.app/
+- Backend: [https://dxtsmk.sse.codesandbox.io/]()
+- Signup: [https://h8uhfv.csb.app/]()
+- Search: [https://utozmb.csb.app/]()
+- View Subscribers: [https://ehgi3o.csb.app/]()
 
 # What I learnt
 
