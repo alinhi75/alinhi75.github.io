@@ -11,8 +11,8 @@ excerpt: Nemad is a smart management system for the city of Yazd that allows peo
 ![](/images/nemad_app/Nemad.png)
 
 
-* ![Github Repo]() private for security purposes
-* You can check out the web version here: ![nemad.ostanyazd.ir](nemad.ostanyazd.ir)
+* Github Repo: private for security purposes
+* You can check out the web version here: ![nemad.ostanyazd.ir](https://nemad.ostanyazd.ir/auth/welcome)
 
 <!-- ABOUT THE PROJECT -->
 
@@ -45,10 +45,10 @@ This project is based on MVVM architecture, using the following tech stacks:
 
 ## More Screenshots 
 
-![](/images/nemad_app/image022.jpg) ![](/images/nemad_app/image023.jpg)
-![](/images/nemad_app/image025.jpg) ![](/images/nemad_app/image030.jpg) ![](/images/nemad_app/image026.jpg) 
-
-
+<img src="/images/nemad_app/image022.jpg" alt="drawing" width="200"/> <img src="/images/nemad_app/image023.jpg" alt="drawing" width="200"/>
+<img src="/images/nemad_app/image025.jpg" alt="drawing" width="200"/>
+<img src="/images/nemad_app/image026.jpg" alt="drawing" width="200"/>
+<img src="/images/nemad_app/image030.jpg" alt="drawing" width="200"/>
 <img src="/images/nemad_app/image031.jpg" alt="drawing" width="200"/>
 <img src="/images/nemad_app/image032.jpg" alt="drawing" width="200"/>
 
