@@ -43,12 +43,12 @@ Shopfiesta is an Ecommerce Application that follows Modern Android Development P
 
 ## Screenshots
 
-<img src="https://github.com/MelDashti/e-commerce-app/blob/master/Screenshots/image034.png" alt="drawing" width="200"/> <img src="https://github.com/MelDashti/e-commerce-app/blob/master/Screenshots/image035.png" alt="drawing" width="200"/>
-<img src="https://github.com/MelDashti/e-commerce-app/blob/master/Screenshots/image040.png" alt="drawing" width="200"/>
-<img src="https://github.com/MelDashti/e-commerce-app/blob/master/Screenshots/image037.png" alt="drawing" width="200"/>
-<img src="https://github.com/MelDashti/e-commerce-app/blob/master/Screenshots/image038.png" alt="drawing" width="200"/>
-<img src="https://github.com/MelDashti/e-commerce-app/blob/master/Screenshots/image039.png" alt="drawing" width="200"/>
-<img src="https://github.com/MelDashti/e-commerce-app/blob/master/Screenshots/image041.png" alt="drawing" width="200"/>
+<img src="https://raw.githubusercontent.com/MelDashti/Shopfiesta/master/Screenshots/image034.png" alt="drawing" width="200"/> <img src="https://raw.githubusercontent.com/MelDashti/Shopfiesta/master/Screenshots/image035.png" alt="drawing" width="200"/>
+<img src="https://raw.githubusercontent.com/MelDashti/Shopfiesta/master/Screenshots/image040.png" alt="drawing" width="200"/>
+<img src="https://raw.githubusercontent.com/MelDashti/Shopfiesta/master/Screenshots/image037.png" alt="drawing" width="200"/>
+<img src="https://raw.githubusercontent.com/MelDashti/Shopfiesta/master/Screenshots/image038.png" alt="drawing" width="200"/>
+<img src="https://raw.githubusercontent.com/MelDashti/Shopfiesta/master/Screenshots/image039.png" alt="drawing" width="200"/>
+<img src="https://raw.githubusercontent.com/MelDashti/Shopfiesta/master/Screenshots/image041.png" alt="drawing" width="200"/>
 
 
 

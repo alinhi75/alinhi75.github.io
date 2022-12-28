@@ -12,7 +12,7 @@ excerpt: Nemad is a smart management system for the city of Yazd that allows peo
 
 
 * Github Repo: private for security purposes
-* You can check out the web version here: ![nemad.ostanyazd.ir](https://nemad.ostanyazd.ir/auth/welcome)
+* You can check out the web version here: <a href="https://nemad.ostanyazd.ir/auth/welcome" target="_blank" rel="noopener noreferrer">nemad.ostanyazd.ir</a>
 
 <!-- ABOUT THE PROJECT -->
 
