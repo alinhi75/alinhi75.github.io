@@ -39,3 +39,5 @@ This project was built and hosted on codesandbox.
 Screenshots: 
 
 ![Signup Page](/images/web_project/signup.jpg)
+![Search Page](https://github.com/MelDashti/net-eng-project/blob/master/Screenshots/SearchSubscriber.jpg)
+![Signup](https://github.com/MelDashti/net-eng-project/blob/master/Screenshots/signup.jpg)
