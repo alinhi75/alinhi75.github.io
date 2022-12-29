@@ -1,7 +1,7 @@
 ---
 title: "Neural Networks With Tensor Flow"
 collection: projects
-excerpt: Neural Networks With Tensor Flow <br></br> ![](/images/AI/coverpic.png)
+excerpt: Neural Networks With Tensor Flow <br/><br/> ![](/images/AI/coverpic.png)
 ---
 
 *** Neural Networks With Tensor Flow***
@@ -22,32 +22,32 @@ A neural network is a network or circuit of biological neurons, or, in a modern 
 - SASS for further improving website style.
 
 
-## Coded a neural network that learned the linear relationship between two variables.
+### Coded a neural network that learned the linear relationship between two variables.
 
 * [Github repo](https://github.com/MelDashti/TensorFlowProjects/blob/master/w1-assignment/C1W1_Assignment.ipynb)
 
 
-## Implemented a callback that gives you more control over the training loop for your model.
+### Implemented a callback that gives you more control over the training loop for your model.
 
 * [Github repo](https://github.com/MelDashti/TensorFlowProjects/blob/master/w2-assignment/C1W2_Assignment.ipynb)
 
-## Implemented a convolutional neural network to assist you in the image classification task
+### Implemented a convolutional neural network to assist you in the image classification task
 
 * [Github repo](https://github.com/MelDashti/TensorFlowProjects/blob/master/w3-assingment/C1W3_Assignment.ipynb)
 
-## Implemented a CNN to assist you in the classification task for complex images.
+### Implemented a CNN to assist you in the classification task for complex images.
 
 * [Github repo](https://github.com/MelDashti/TensorFlowProjects/blob/master/w4-assingment/C1W4_Assignment.ipynb)
 
 
-## Implemented a convolutional neural network that classifies images of cats and dogs, along with the helper functions needed to pre-process the images.
+### Implemented a convolutional neural network that classifies images of cats and dogs, along with the helper functions needed to pre-process the images.
 
 * [Github repo](https://github.com/MelDashti/TensorFlowProjects/blob/master/C2W1_Assignment.ipynb)
 
 ![](/images/AI/image5.png)
 ![](/images/AI/image6.png)
 
-## Implemented a convolutional neural network that classifies images of cats and dogs, along with the helper functions needed to pre-process the images!
+### Implemented a convolutional neural network that classifies images of cats and dogs, along with the helper functions needed to pre-process the images!
 
 * [Github repo](https://github.com/MelDashti/TensorFlowProjects/blob/master/C2W2_Assignment.ipynb)
 
@@ -55,14 +55,14 @@ A neural network is a network or circuit of biological neurons, or, in a modern 
 ![](/images/AI/image8.png)
 
 
-## Implemented a convolutional neural network that leverages a pre-trained network to help you solve the problem of classifying humans from horses.
+### Implemented a convolutional neural network that leverages a pre-trained network to help you solve the problem of classifying humans from horses.
 
 * [Github repo](https://github.com/MelDashti/TensorFlowProjects/blob/master/C2W3_Assignment.ipynb)
 
 ![](/images/AI/image3.png)
 
 
-## Implemented a convolutional neural network that is able to perform multi-class classification tasks
+### Implemented a convolutional neural network that is able to perform multi-class classification tasks
 
 * [Github repo](https://github.com/MelDashti/TensorFlowProjects/blob/master/C2W4_Assignment.ipynb)
 
