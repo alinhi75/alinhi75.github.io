@@ -1,8 +1,6 @@
 ---
 title: "Stock Price Predictor"
 collection: projects
+excerpt: Npm package that predicts crypto and s&p prices based on tweets
 ---
-***Designing and implementation of:***
-- the Trie Dictionary (k-ary search tree)
-- the Rat in the maze problem (Backtracking & Stacks)
 

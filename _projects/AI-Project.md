@@ -1,7 +1,7 @@
 ---
 title: "Neural Networks With Tensor Flow"
 collection: projects
-excerpt: Neural Networks With Tensor Flow <br/><br/> ![](/images/AI/coverpic.png)
+excerpt: <br/><br/> ![](/images/AI/coverpic.png)
 ---
 
 A neural network is a network or circuit of biological neurons, or, in a modern sense, an artificial neural network, composed of artificial neurons or nodes. Thus, a neural network is either a biological neural network, made up of biological neurons or an artificial neural network, used for solving artificial intelligence (AI) problems.
@@ -10,9 +10,9 @@ A neural network is a network or circuit of biological neurons, or, in a modern 
 
 * [Github repo](https://github.com/MelDashti/ToDoList)
 
-Below I have shared my 8-week-long tensor flow course assignments. 
-- [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning.(4 weeks)](https://www.coursera.org/account/accomplishments/certificate/ST2YUTZSZ357) 
-- [Convolutional Neural Networks in TensorFlow (4 weeks)](https://www.coursera.org/account/accomplishments/certificate/9C2FATZAAKDB)
+Below, I have included every assignment I completed for the following two courses:
+- Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning (4 weeks)
+- Convolutional Neural Networks in TensorFlow (4 weeks)
 
 # What I learnt
 
@@ -48,7 +48,7 @@ Implemented a convolutional neural network that classifies images of cats and do
 Model achieved a max training accuracy of 98.54% and a max validation accuracy of a 82.7%.
 
 ![](/images/AI/image5.png)
-![](/images/AI/image6.png)
+
 
 ### Sixth Week
 Implemented a convolutional neural network that classifies images of cats and dogs, along with the helper functions needed to pre-process the images!
@@ -58,7 +58,7 @@ Implemented a convolutional neural network that classifies images of cats and do
 Model achieved a max training accuracy of 78.69% and a max validation accuracy of a 82.56%.
 
 ![](/images/AI/image7.png)
-![](/images/AI/image8.png)
+
 
 
 ### Seventh Week
@@ -78,7 +78,6 @@ Implemented a convolutional neural network that is able to perform multi-class c
 
 Model achieved a max training accuracy of 89.23% and a max validation accuracy of a 94.63%.
 
-![](/images/AI/image1.png)
 ![](/images/AI/image2.png)
 
 
