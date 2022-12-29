@@ -4,7 +4,6 @@ collection: projects
 excerpt: Neural Networks With Tensor Flow <br/><br/> ![](/images/AI/coverpic.png)
 ---
 
-*** Neural Networks With Tensor Flow***
 
 A neural network is a network or circuit of biological neurons, or, in a modern sense, an artificial neural network, composed of artificial neurons or nodes.Thus, a neural network is either a biological neural network, made up of biological neurons, or an artificial neural network, used for solving artificial intelligence (AI) problems.
 
@@ -12,42 +11,45 @@ A neural network is a network or circuit of biological neurons, or, in a modern 
 
 * [Github repo](https://github.com/MelDashti/ToDoList)
 
+Below I have shared my 8 week long tensor flow course assignments. 
+- Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning 
+- Convolutional Neural Networks in TensorFlow
 
 # What I learnt
 
-- React.js for building interactive user interfaces. (User Sign Up, Search Feature, View User Details).
-- MongoDB a NoSQL database program that was used for saving user information. 
-- Node.js for handling database connections and making calls to REST API. 
-- Node.js and Express.js for building REST API.
-- SASS for further improving website style.
 
-
-### Coded a neural network that learned the linear relationship between two variables.
+### First Week
+Coded a neural network that learned the linear relationship between two variables.
 
 * [Github repo](https://github.com/MelDashti/TensorFlowProjects/blob/master/w1-assignment/C1W1_Assignment.ipynb)
 
 
-### Implemented a callback that gives you more control over the training loop for your model.
+### Second Week
+Implemented a callback that gives you more control over the training loop for your model.
 
 * [Github repo](https://github.com/MelDashti/TensorFlowProjects/blob/master/w2-assignment/C1W2_Assignment.ipynb)
 
-### Implemented a convolutional neural network to assist you in the image classification task
+### Third Week
+Implemented a convolutional neural network to assist you in the image classification task
 
 * [Github repo](https://github.com/MelDashti/TensorFlowProjects/blob/master/w3-assingment/C1W3_Assignment.ipynb)
 
-### Implemented a CNN to assist you in the classification task for complex images.
+### Fourth Week
+Implemented a CNN to assist you in the classification task for complex images.
 
 * [Github repo](https://github.com/MelDashti/TensorFlowProjects/blob/master/w4-assingment/C1W4_Assignment.ipynb)
 
 
-### Implemented a convolutional neural network that classifies images of cats and dogs, along with the helper functions needed to pre-process the images.
+### Fifth Week
+Implemented a convolutional neural network that classifies images of cats and dogs, along with the helper functions needed to pre-process the images.
 
 * [Github repo](https://github.com/MelDashti/TensorFlowProjects/blob/master/C2W1_Assignment.ipynb)
 
 ![](/images/AI/image5.png)
 ![](/images/AI/image6.png)
 
-### Implemented a convolutional neural network that classifies images of cats and dogs, along with the helper functions needed to pre-process the images!
+### Sixth Week
+Implemented a convolutional neural network that classifies images of cats and dogs, along with the helper functions needed to pre-process the images!
 
 * [Github repo](https://github.com/MelDashti/TensorFlowProjects/blob/master/C2W2_Assignment.ipynb)
 
@@ -55,14 +57,16 @@ A neural network is a network or circuit of biological neurons, or, in a modern 
 ![](/images/AI/image8.png)
 
 
-### Implemented a convolutional neural network that leverages a pre-trained network to help you solve the problem of classifying humans from horses.
+### Seventh Week
+Implemented a convolutional neural network that leverages a pre-trained network to help you solve the problem of classifying humans from horses.
 
 * [Github repo](https://github.com/MelDashti/TensorFlowProjects/blob/master/C2W3_Assignment.ipynb)
 
 ![](/images/AI/image3.png)
 
 
-### Implemented a convolutional neural network that is able to perform multi-class classification tasks
+### Eighth Week
+Implemented a convolutional neural network that is able to perform multi-class classification tasks
 
 * [Github repo](https://github.com/MelDashti/TensorFlowProjects/blob/master/C2W4_Assignment.ipynb)
 
