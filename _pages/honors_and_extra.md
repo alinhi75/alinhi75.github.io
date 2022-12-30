@@ -29,12 +29,11 @@ author_profile: true
 
 
 - #### Application Development & Frameworks & Libraries:
-  <img alt="Qt" src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white"/>
+  <img alt="NumPy" src="https://img.shields.io/badge/AndroidStudio-%23013243.svg?style=for-the-badge&logo=android&logoColor=black"/>
   <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img alt="Matplotlib" src="https://img.shields.io/badge/matplotlib-%23316192.svg?style=for-the-badge&logo=matplotlib&logoColor=white"/>
   <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img alt="NetworkX" src="https://img.shields.io/badge/NetworkX-%23316192.svg?style=for-the-badge&logo=NetworkX&logoColor=white"/>
 
 - #### Databases:
   <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
