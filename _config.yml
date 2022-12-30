@@ -33,7 +33,7 @@ comments:
     colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" "master", "gh-pages"
+  branch                 : #  "gh-pages" "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -174,7 +174,6 @@ kramdown:
   enable_coderay: false
 
 
-
 # Collections
 collections:
   teaching:
@@ -221,32 +220,7 @@ defaults:
       comment: true
 
  
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
 
-
- # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
      
 
