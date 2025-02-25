@@ -10,13 +10,13 @@ locale                   : "en-US"
 title                    : ""
 title_separator          : "-"
 name                     : &name "Meelad Dashti"
-description              : &description "Software Engineering Student | Teaching Assistant | App Developer | Technology Enthusiast | Economic Enthusiast"
+description              : &description "AI/ML Engineer | Software Engineering Student | Teaching Assistant | App Developer | Technology Enthusiast | Economic Enthusiast"
 url                      : https://meldashti.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "meldashti/meldashti.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false  # true, false (default)
-seo_description          : "Site for Meelad Dashti, Undergrad student of Computer Engineering at Yazd University"
+seo_description          : "Site for Meelad Dashti, Postgrad student of Computer Engineering at Polytechnic University of Turin"
 words_per_minute         : 160
 future                   : true
 read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
@@ -83,8 +83,8 @@ analytics:
 author:
   name             : "Meelad Dashti"
   avatar           : "profile.jpg"
-  bio              : "Software Engineering Student | App/Web Dev | Digital Nomad | Teaching Assistant | | Technology Enthusiast <br> <br>"
-  location         : "Yazd, Iran"
+  bio              : "AI/ML Engineer | Software Engineering Student | App/Web Dev | Digital Nomad | Teaching Assistant | | Technology Enthusiast <br> <br>"
+  location         : "Torino, Italy"
   employer         :
   pubmed           : 
   googlescholar    : 

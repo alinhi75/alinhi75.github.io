@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hey there! Welcome to my personal website where you can learn more about my professional life. I recently graduated with a bachelor's in computer engineering and I have been working on freelance app development projects for over three years. I also dabble in artificial intelligence, blockchain technology, machine learning, and algorithmic trading. Feel free to reach out if you enjoy my work. 
+Master’s student in Computer Engineering - AI & Data Science at Politecnico di Torino, with a background in software engineering and a strong focus on AI, machine learning, NLP, LLMs, and computer vision. I enjoy building intelligent systems, optimizing deep learning models, and applying AI to real-world challenges.
+I started out as a software engineer, working in Android and web development, but my passion for AI led me to focus on LLMs, deep learning, and multimodal AI. Always excited to explore new ideas and solve complex problems.
+Open to industry internships, research roles, and paid thesis opportunities in AI, ML, and software engineering. Let’s connect!
 
 You can find more details in the following section:
 
