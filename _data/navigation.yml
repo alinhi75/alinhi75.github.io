@@ -6,14 +6,3 @@ main:
 
   - title: "CV"
     url: /cv/
-
-  - title: "Courses"
-    url: /selected_courses/
-
-  
-  - title: "Honors, Scores, Skills, etc."
-    url: /honors_and_extra/
-
-  
-  - title: "Blog Posts"
-    url: /year-archive/

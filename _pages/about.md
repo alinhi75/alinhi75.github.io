@@ -18,9 +18,6 @@ You can find more details in the following section:
 
 ### Click here to see my [CV](/cv/)
 
-### Click here to see my [Selected Courses](/selected_courses/)
-
-### Click here to see my [Honors and Awards, Test Scores, Skills, etc.](/honors_and_extra/)
 
 
 
