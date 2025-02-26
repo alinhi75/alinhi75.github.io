@@ -2,13 +2,13 @@
 title: "Genetic Programming for Formula Evolution"
 collection: projects
 weight: 4
-excerpt: A tree-based genetic programming system to evolve mathematical formulas that predict outcomes from numerical datasets. <br/><br/> ![](/images/genetic_programming/coverpic.png)
+excerpt: A tree-based genetic programming system to evolve mathematical formulas that predict outcomes from numerical datasets. <br/><br/> ![](/images/symreg.png)
 ---
 
 
 A **symbolic regression system** that uses **genetic programming** to automatically discover mathematical formulas for predicting numerical outcomes. The project evolves mathematical expressions by minimizing **Mean Squared Error (MSE)** while balancing accuracy and complexity.
 
-![](/images/genetic_programming/coverpic.png)
+![](/images/symreg.png)
 
 📌 **[GitHub Repository](https://github.com/MelDashti/CI2024_project-work)**  
 
