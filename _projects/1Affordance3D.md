@@ -29,12 +29,10 @@ This project extends **neural affordance highlighting** to **3D point clouds**, 
 - **PyTorch, Differentiable Rendering**
 - **Multi-View Learning, 3D AffordanceNet Dataset**
 - **Evaluation Metrics: IoU, aIoU**
-
 ---
 
 ### 📸 **Sample Results**
 <img src="/images/affordance.png" width="250"/>  
-
 
 
 The **3D Neural Affordance Highlighter** explores how **vision-language models** can extend **affordance recognition to 3D environments**. By leveraging **differentiable rendering and CLIP embeddings**, the project demonstrates the potential for **unsupervised affordance detection** in 3D space.
