@@ -1,6 +1,7 @@
 ---
 title: "Neural Networks With Tensor Flow"
 collection: projects
+weight: 4 
 excerpt: <br/><br/> ![](/images/AI/coverpic.png)
 ---
 

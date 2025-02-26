@@ -1,6 +1,7 @@
 ---
 title: "Pac-Man on LandTiger Board"
 collection: projects
+weight: 6
 excerpt: Implementation of Pac-Man for the LandTiger LPC1768 development board with AI-driven ghosts, sound effects, and CAN bus communication. <br/><br/> ![](/images/pacman.png)
 ---
 

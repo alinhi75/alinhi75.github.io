@@ -1,6 +1,7 @@
 ---
 title: "3D Neural Affordance Highlighter"
 collection: projects
+weight: 1 
 excerpt: Exploring vision-language models for 3D affordance segmentation using CLIP-based textual supervision. <br/><br/> ![](/images/affordance.png)
 ---
 

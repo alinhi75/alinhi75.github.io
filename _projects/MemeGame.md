@@ -1,6 +1,7 @@
 ---
 title: "Meme Game Web App"
 collection: projects
+weight: 5
 excerpt: A single-player meme-based web game built with React and Node.js, featuring authentication, game sessions, and dynamic scoring. <br/><br/> ![](/images/webpicture1.png)
 ---
 

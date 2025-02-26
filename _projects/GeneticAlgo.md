@@ -1,6 +1,7 @@
 ---
 title: "Genetic Programming for Formula Evolution"
 collection: projects
+weight: 4
 excerpt: A tree-based genetic programming system to evolve mathematical formulas that predict outcomes from numerical datasets. <br/><br/> ![](/images/genetic_programming/coverpic.png)
 ---
 

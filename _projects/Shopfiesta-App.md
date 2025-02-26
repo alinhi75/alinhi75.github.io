@@ -1,6 +1,7 @@
 ---
 title: "Ecommerce Application"
 collection: projects
+weight: 8
 excerpt: Todo list application is a simple and compact app where you can set reminders. The tasks are categorized such that the user can view tasks on priority basis. <br/><br/> ![shopfiesta](/images/shopfiesta.png)
 
 ---
