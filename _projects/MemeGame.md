@@ -5,7 +5,7 @@ weight: 5
 excerpt: A single-player meme-based web game built with React and Node.js, featuring authentication, game sessions, and dynamic scoring. <br/><br/> ![](/images/webpicture1.png)
 ---
 
-## Meme Game Web App
+
 A **React-based web application** that brings the "What Do You Meme?" board game experience online. Developed as a **full-stack project** for a web applications course, this app allows users to **play meme-based rounds, track scores, and compete against themselves**.
 
 ![](/images/webpicture1.png)

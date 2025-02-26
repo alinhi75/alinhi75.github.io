@@ -5,7 +5,6 @@ weight: 2
 excerpt: AI-powered chatbot for AROL Group, integrating web scraping, LLM fine-tuning, and retrieval-augmented generation (RAG). <br/><br/> ![](/images/chatbot.jpg)
 ---
 
-## AROL Group Smart Chatbot
 An AI-powered chatbot designed to provide **accurate, domain-specific responses** about **AROL Group's products and services**. The chatbot integrates **LLM fine-tuning, retrieval-augmented generation (RAG), and web crawling** to enhance response quality and domain-specific knowledge.
 
 ![](/images/chatbot.jpg)

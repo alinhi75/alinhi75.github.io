@@ -5,7 +5,7 @@ weight: 6
 excerpt: Implementation of Pac-Man for the LandTiger LPC1768 development board with AI-driven ghosts, sound effects, and CAN bus communication. <br/><br/> ![](/images/pacman.png)
 ---
 
-## Pac-Man on LandTiger Board
+
 A **hardware-implemented version of Pac-Man**, developed as part of a **Computer Architecture course**, running on the **LandTiger LPC1768** development board. This version includes **AI-controlled ghosts, sound effects, and CAN bus communication** for real-time score tracking.
 
 ![](/images/pacman.png)

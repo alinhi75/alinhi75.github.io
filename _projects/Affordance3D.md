@@ -5,7 +5,6 @@ weight: 1
 excerpt: Exploring vision-language models for 3D affordance segmentation using CLIP-based textual supervision. <br/><br/> ![](/images/affordance.png)
 ---
 
-## 3D Neural Affordance Highlighter
 **Applying AI to localize affordance regions in 3D point clouds using vision-language models.**  
 
 This project extends **neural affordance highlighting** to **3D point clouds**, investigating whether affordance regions can be identified using **CLIP-based textual supervision** without explicit 3D labels. It utilizes **multi-view rendering, differentiable rendering, and neural networks** to enhance segmentation accuracy.
