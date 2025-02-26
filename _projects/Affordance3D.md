@@ -30,10 +30,11 @@ This project extends **neural affordance highlighting** to **3D point clouds**, 
 - **Dataset** → 3D AffordanceNet (22,949 objects, 23 classes, 18 affordance labels)
 - **Evaluation Metrics** → IoU, aIoU, CLIP-based similarity scores
 
----
-
-### 📸 **Sample Results**
-<img src="/images/affordance.png" width="250"/>  
+On this page I want to also include the report we wrote in CVPR format for this project.  
+If the embedded PDF below does not load, you can <u><a href="https://meldashti.github.io/files/Affordance_Final_Report.pdf">download it here.</a></u>
+<br />
+<br />
+<embed src="https://meldashti.github.io/files/Affordance_Final_Report.pdf" type="application/pdf" width="100%" />
 
 ---
 
