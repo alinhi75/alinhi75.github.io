@@ -1,7 +1,7 @@
 ---
 title: "AROL Group Smart Chatbot"
 collection: projects
-weight: 2
+weight: 1
 excerpt: AI-powered chatbot for AROL Group, integrating web scraping, LLM fine-tuning, and retrieval-augmented generation (RAG). <br/><br/> ![](/images/chatbot.jpg)
 ---
 
