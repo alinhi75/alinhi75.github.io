@@ -7,13 +7,21 @@
 <div itemscope itemtype="http://schema.org/Person">
 
       <script type="text/javascript">
-            var imageURLs = [
+            {% comment %} var imageURLs = [
                   "https://github.com/alinhi75/alinhi75.github.io/tree/master/images/alinhi75-profile.jpg",
             ];
             function getImageTag() {
                   var randomIndex = Math.floor(Math.random() * imageURLs.length);
                   return imageURLs[randomIndex];
-            }
+            } {% endcomment %}
+              <div class="author__avatar">
+  {% if author.avatar contains "://" %}
+    <img src="{{ author.avatar }}" alt="{{ author.name }}">
+  {% else %}
+    <img src="/images/{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
+  {% endif %}
+</div>
+
       </script>
 
       <div class="author__avatar">

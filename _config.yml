@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Ali Noohi"
-  avatar           : "alinhi75-profile.jpg"    # <- Your photo file in /images/
+  avatar           : "images/alinhi75-profile.jpg"    # <- Your photo file in /images/
   bio              : "Master’s Student in Computer Engineering – Software Engineering @ Politecnico di Torino | Backend Developer | Full-Stack Engineer | Technology Enthusiast"
   location         : "Turin, Italy"
   employer         :
