@@ -5,7 +5,7 @@ excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
-  - /about.html
+  - /about.html 
 ---
 
 Currently pursuing a Master’s in Computer Engineering at Politecnico di Torino, I specialize in backend development, scalable software architecture, and system programming. My experience spans full-stack engineering, with a focus on PHP/Laravel, Node.js, TypeScript, Vue, and React, complemented by a solid foundation in DevOps and low-level programming.
@@ -18,8 +18,4 @@ You can find more details in the following section:
 
 ### Click here to see my [Projects](/projects/)
 
-### Click here to see my [CV](/cv/)
-
-
-
-
+### Click here to see my [CV](files/cv.pdf)
