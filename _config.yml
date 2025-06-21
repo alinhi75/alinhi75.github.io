@@ -81,33 +81,33 @@ analytics:
 
 # Site Author
 author:
-  name             : "Meelad Dashti"
-  avatar           : "profile.jpg"
-  bio              : "Master’s Student in Computer Engineering - AI and Data Science | AI Engineer | LLMs & NLP | Software Engineer | Technology Enthusiast <br> <br>"
+  name             : "Ali Noohi"
+  avatar           : "alinhi75-profile.jpg"    # <- Your photo file in /images/
+  bio              : "Master’s Student in Computer Engineering – Software Engineering @ Politecnico di Torino | Backend Developer | Full-Stack Engineer | Technology Enthusiast"
   location         : "Turin, Italy"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "meeladd7@gmail.com"
+  email            : "sayedali.noohi@studenti.polito.it"
   researchgate     :
-  uri              :
+  uri              : "https://alinhi75.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "meldashti"
+  github           : "alinhi75"
   google_plus      :
   keybase          :
   instagram        : 
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
-  linkedin         : "MeeladDashti"
+  linkedin         : "ali-noohi"
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : https://stackoverflow.com/users/12311659/melthecoder
+  stackoverflow    : "https://stackoverflow.com/users/[your_userid]"
   steam            :
   tumblr           :
   twitter          : 
