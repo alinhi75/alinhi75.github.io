@@ -6,7 +6,7 @@ layout: archive
 excerpt: "Sayedali Noohi – Curriculum Vitae"
 ---
 
-# Sayedali Noohi
+# Ali Noohi
 
 **Master’s Student in Computer Engineering – Software Engineering @ Politecnico di Torino**  
 _Backend Developer | Full-Stack Engineer | Technology Enthusiast_

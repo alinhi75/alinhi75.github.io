@@ -1,18 +1,9 @@
-# Authors
-
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Sayedali Noohi:
+  name       : "Sayedali Noohi"
+  uri        : "https://alinhi75.github.io"
+  email      : "sayedali.noohi@studenti.polito.it"
+  bio        : "Master’s Student in Computer Engineering – Software Engineering @ Politecnico di Torino | Backend Developer | Full-Stack Engineer | Technology Enthusiast"
+  avatar     : "alinhi75-profile.png"  # Place your image in /images/
+  twitter    : "alinhi75"
+  linkedin   : "https://www.linkedin.com/in/ali-noohi"
+  github     : "https://github.com/alinhi75"
