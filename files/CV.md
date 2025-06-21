@@ -124,7 +124,7 @@ _Tech:_ Python, PyTorch, Machine Learning
 
 ## 📄 Download
 
-[Download PDF version](/files/Sayedali_Noohi_CV.pdf)
+[Download PDF version](/files/CV.pdf)
 
 ---
 
