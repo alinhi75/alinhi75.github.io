@@ -9,7 +9,7 @@ excerpt: Single-player meme captioning game web app. <br/><br/> ![](/images/meme
 
 Built a single-player meme board game web app where users compete to find the funniest caption for random meme images. Implemented real-time gameplay, user authentication, and persistent score tracking.
 
-![](/images/memegame.png)
+![](/images/memegame.jpeg)
 
 ---
 
