@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Meelad Dashti"
+title: "Ali Noohi"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Master’s student in Computer Engineering - AI & Data Science at Politecnico di Torino, with a background in software engineering and a strong focus on AI, machine learning, NLP, LLMs, and computer vision. I enjoy building intelligent systems, optimizing deep learning models, and applying AI to real-world challenges.
-I started out as a software engineer, working in Android and web development, but my passion for AI led me to focus on LLMs, deep learning, and multimodal AI. Always excited to explore new ideas and solve complex problems.
-Open to industry internships, research roles, and paid thesis opportunities in AI, ML, and software engineering. Let’s connect!
+Currently pursuing a Master’s in Computer Engineering at Politecnico di Torino, I specialize in backend development, scalable software architecture, and system programming. My experience spans full-stack engineering, with a focus on PHP/Laravel, Node.js, TypeScript, Vue, and React, complemented by a solid foundation in DevOps and low-level programming.
+
+As a Backend Developer at PlusYar, I design and maintain robust APIs and backend services, ensuring scalability, security, and high performance for a global user base. I’m passionate about building clean, maintainable, and future-proof solutions that power impactful, user-centric platforms.
+
+I thrive on tackling complex engineering challenges—from architecting backend infrastructures to streamlining deployment pipelines. Always eager to collaborate with forward-thinking teams and contribute to innovative projects in modern software development.
 
 You can find more details in the following section:
 
