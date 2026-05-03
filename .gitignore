@@ -1,4 +1,10 @@
 _site/
 
 # add node modules of front end foler 
-frontend/node_modules/
+frontend/node_modules
+
+# ADD .env file to ignore list
+frontend/.env
+
+# add build output of front end to ignore list
+frontend/dist

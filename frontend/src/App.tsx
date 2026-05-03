@@ -1,9 +1,11 @@
-import React from 'react'
-import { experience, highlights, projects, skills } from './data/projects'
+import React, { useState } from 'react'
+import { experience, highlights, projects, skillGroups, skills } from './data/projects'
+import profilePhoto from './data/alinhi75-profile.jpg'
 
 const cvUrl = new URL('./data/Ali Noohi - CV - ND.pdf', import.meta.url).href
 
 export default function App() {
+  const [showContactModal, setShowContactModal] = useState(false)
   return (
     <div className="page-shell">
       <header className="topbar">
@@ -33,7 +35,7 @@ export default function App() {
 
             <div className="hero-actions">
               <a className="button primary" href="#projects">View Projects</a>
-              <a className="button secondary" href="#contact">Contact</a>
+              <button className="button secondary" onClick={() => setShowContactModal(true)}>Contact</button>
               <a className="button ghost" href={cvUrl} target="_blank" rel="noreferrer">Download CV</a>
             </div>
 
@@ -49,17 +51,19 @@ export default function App() {
 
           <aside className="hero-panel" aria-label="portfolio summary">
             <div className="panel-card panel-glow">
-              <p className="panel-label">Currently</p>
-              <h2>Building software that is useful, reliable, and easy to keep improving.</h2>
+              <p className="panel-label">Current focus</p>
+              <h2>Shipping backend-first products with strong frontend polish.</h2>
               <p>
-                I like product-oriented engineering: strong foundations, practical delivery, and interfaces that feel deliberate.
+                I build production systems with Python, Django, Node.js, and TypeScript, then pair them with React interfaces,
+                reliable cloud deployment, and practical product thinking.
               </p>
             </div>
 
             <div className="panel-card panel-tape">
-              <p className="panel-label">Stack</p>
+              <p className="panel-label">Core stack</p>
+              <p className="stack-summary">{skillGroups[0].summary}</p>
               <div className="tag-list">
-                {skills.slice(0, 8).map((skill) => (
+                {skillGroups[0].items.map((skill) => (
                   <span key={skill} className="tag">{skill}</span>
                 ))}
               </div>
@@ -68,9 +72,10 @@ export default function App() {
         </section>
 
         <section className="content-grid section" id="about">
-          <div>
+          <div className="about-summary">
             <p className="section-label">About</p>
             <h2>Technology that makes life easier</h2>
+            <img className="about-photo" src={profilePhoto} alt="Ali Noohi" />
           </div>
           <div className="text-card">
             <p>
@@ -93,11 +98,19 @@ export default function App() {
         <section className="section" id="skills">
           <div className="section-heading">
             <p className="section-label">Skills</p>
-            <h2>Tools I reach for</h2>
+            <h2>Technical strengths by area</h2>
           </div>
-          <div className="tag-cloud">
-            {skills.map((skill) => (
-              <span key={skill} className="tag large">{skill}</span>
+          <div className="skills-grid">
+            {skillGroups.map((group) => (
+              <article key={group.title} className="skill-card">
+                <p className="skill-card-label">{group.title}</p>
+                <p className="skill-card-summary">{group.summary}</p>
+                <div className="skill-card-tags">
+                  {group.items.map((skill) => (
+                    <span key={skill} className="tag large">{skill}</span>
+                  ))}
+                </div>
+              </article>
             ))}
           </div>
         </section>
@@ -110,14 +123,28 @@ export default function App() {
           <div className="project-grid">
             {projects.map((project) => (
               <article key={project.title} className="project-card">
-                <div className="project-visual">
-                  {project.image ? <img src={project.image} alt="" /> : <span>{project.category}</span>}
-                </div>
+                {project.icon ? (
+                  <div className="project-header project-header--icon">
+                    <img className="project-icon" src={project.icon} alt="" />
+                    <div>
+                      <p className="project-category">{project.category}</p>
+                      <h3>{project.title}</h3>
+                    </div>
+                  </div>
+                ) : (
+                  <div className="project-visual">
+                    {/* {project.image ? <img src={project.image} alt="" /> : <span>{project.category}</span>} */}
+                  </div>
+                )}
                 <div className="project-body">
-                  <p className="project-category">{project.category}</p>
-                  <h3>{project.title}</h3>
                   <p>{project.description}</p>
-                  <a href={project.link}>Read case study</a>
+                  <a
+                    href={project.link}
+                    target={project.link.startsWith('http') ? '_blank' : undefined}
+                    rel={project.link.startsWith('http') ? 'noreferrer' : undefined}
+                  >
+                    {project.ctaLabel ?? 'Read case study'}
+                  </a>
                 </div>
               </article>
             ))}
@@ -136,6 +163,8 @@ export default function App() {
                   <p className="timeline-meta">{item.period} · {item.location}</p>
                   <h3>{item.role}</h3>
                   <p className="timeline-company">{item.company}</p>
+                  {/* icon should be here  */}
+                    {item.icon && <img className="timeline-icon" src={item.icon} alt={`${item.company} logo`} />}
                 </div>
                 <p>{item.summary}</p>
               </article>
@@ -148,7 +177,7 @@ export default function App() {
             <p className="section-label">Resume</p>
             <h2>CV snapshot</h2>
             <p className="resume-copy">
-              The site links directly to the CV PDF stored in the project data folder.
+                For a detailed overview of my experience, skills, and projects, please check out my CV. It includes comprehensive information about my background and accomplishments in software engineering.                
             </p>
           </div>
           <div className="resume-card">
@@ -164,16 +193,52 @@ export default function App() {
             <p className="contact-copy">Open to software engineering roles, product work, and collaborations.</p>
           </div>
           <div className="contact-links">
-            <a href="mailto:sayedali.noohi@studenti.polito.it">Email</a>
+            <a href="mailto:alinoohi11@gmail.com">Email</a>
             <a href="https://github.com/alinhi75" target="_blank" rel="noreferrer">GitHub</a>
             <a href="https://linkedin.com/in/ali-noohi" target="_blank" rel="noreferrer">LinkedIn</a>
           </div>
         </section>
       </main>
 
-      <footer className="footer">
+      {showContactModal && (
+        <div className="modal-overlay" onClick={() => setShowContactModal(false)}>
+          <div className="modal-content" onClick={(e) => e.stopPropagation()}>
+            <button className="modal-close" onClick={() => setShowContactModal(false)}>✕</button>
+            <h2>Get in touch</h2>
+            <p className="modal-subtitle">Let's connect and discuss opportunities</p>
+            
+            <div className="contact-options">
+              <a href="mailto:alinoohi11@gmail.com" className="contact-option">
+                <span className="contact-icon">✉</span>
+                <div>
+                  <p className="contact-label">Email</p>
+                  <p className="contact-value">alinoohi11@gmail.com</p>
+                </div>
+              </a>
+              
+              <a href="https://github.com/alinhi75" target="_blank" rel="noreferrer" className="contact-option">
+                <span className="contact-icon">⚙</span>
+                <div>
+                  <p className="contact-label">GitHub</p>
+                  <p className="contact-value">github.com/alinhi75</p>
+                </div>
+              </a>
+              
+              <a href="https://linkedin.com/in/ali-noohi" target="_blank" rel="noreferrer" className="contact-option">
+                <span className="contact-icon">💼</span>
+                <div>
+                  <p className="contact-label">LinkedIn</p>
+                  <p className="contact-value">linkedin.com/in/ali-noohi</p>
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+      )}
+
+      {/* <footer className="footer">
         <p>Built with React, TypeScript, and Vite.</p>
-      </footer>
+      </footer> */}
     </div>
   )
 }
