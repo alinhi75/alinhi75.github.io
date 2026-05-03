@@ -73,24 +73,24 @@ export const highlights = [
 
 export const skillGroups = [
   {
-    title: 'Backend Development',
+    title: 'Programming Languages',
     summary: 'Services, APIs, authentication, and data flow.',
-    items: ['Python', 'Django', 'Node.js', 'REST APIs', 'OAuth/JWT']
+    items: ['Python', 'JavaScript', 'TypeScript', 'PHP', 'SQL', 'C++']
   },
   {
-    title: 'Frontend Development',
+    title: 'Frameworks & Libraries',
     summary: 'Interfaces, responsive layouts, and user-facing work.',
-    items: ['React', 'TypeScript', 'Vue', 'UI Engineering']
+    items: ['Django','React','Express.js', 'Next.js', 'Laravel',  'Bootstrap', 'RESTful APIs', 'JWT', 'GraphQL']
   },
   {
     title: 'Cloud & DevOps',
     summary: 'Deployment, containers, and production workflows.',
-    items: ['AWS', 'Docker', 'CI/CD', 'Git']
+    items: ['Git', 'Docker', 'CI/CD', 'nginx', 'GCP','AWS', 'Kubernetes']
   },
   {
-    title: 'Data & Systems',
+    title: 'Databases & Systems',
     summary: 'Databases and system-level application work.',
-    items: ['PostgreSQL', 'MongoDB', 'System Design', 'DevOps']
+    items: ['PostgreSQL', 'MongoDB', 'Redis']
   }
 ]
 
