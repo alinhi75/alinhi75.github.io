@@ -1,2 +1,4 @@
 _site/
 
+# add node modules of front end foler 
+frontend/node_modules/
